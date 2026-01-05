@@ -1,0 +1,8002 @@
+[
+  {
+    "ID": 1,
+    "type": "Factual"
+  },
+  {
+    "ID": 2,
+    "type": "Factual"
+  },
+  {
+    "ID": 3,
+    "type": "Factual"
+  },
+  {
+    "ID": 4,
+    "type": "Factual"
+  },
+  {
+    "ID": 5,
+    "type": "Factual"
+  },
+  {
+    "ID": 6,
+    "type": "Factual"
+  },
+  {
+    "ID": 7,
+    "type": "Factual"
+  },
+  {
+    "ID": 8,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 9,
+    "type": "Factual"
+  },
+  {
+    "ID": 10,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 11,
+    "type": "Factual"
+  },
+  {
+    "ID": 12,
+    "type": "Factual"
+  },
+  {
+    "ID": 13,
+    "type": "Factual"
+  },
+  {
+    "ID": 14,
+    "type": "Factual"
+  },
+  {
+    "ID": 15,
+    "type": "Factual"
+  },
+  {
+    "ID": 16,
+    "type": "Factual"
+  },
+  {
+    "ID": 17,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 18,
+    "type": "Factual"
+  },
+  {
+    "ID": 19,
+    "type": "Factual"
+  },
+  {
+    "ID": 20,
+    "type": "Factual"
+  },
+  {
+    "ID": 21,
+    "type": "Factual"
+  },
+  {
+    "ID": 22,
+    "type": "Factual"
+  },
+  {
+    "ID": 23,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 24,
+    "type": "Factual"
+  },
+  {
+    "ID": 25,
+    "type": "Factual"
+  },
+  {
+    "ID": 26,
+    "type": "Factual"
+  },
+  {
+    "ID": 27,
+    "type": "Factual"
+  },
+  {
+    "ID": 28,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 29,
+    "type": "Factual"
+  },
+  {
+    "ID": 30,
+    "type": "Factual"
+  },
+  {
+    "ID": 31,
+    "type": "Factual"
+  },
+  {
+    "ID": 32,
+    "type": "Factual"
+  },
+  {
+    "ID": 33,
+    "type": "Factual"
+  },
+  {
+    "ID": 34,
+    "type": "Factual"
+  },
+  {
+    "ID": 35,
+    "type": "Factual"
+  },
+  {
+    "ID": 36,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 37,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 38,
+    "type": "Factual"
+  },
+  {
+    "ID": 39,
+    "type": "Factual"
+  },
+  {
+    "ID": 40,
+    "type": "Factual"
+  },
+  {
+    "ID": 41,
+    "type": "Factual"
+  },
+  {
+    "ID": 42,
+    "type": "Factual"
+  },
+  {
+    "ID": 43,
+    "type": "Factual"
+  },
+  {
+    "ID": 44,
+    "type": "Factual"
+  },
+  {
+    "ID": 45,
+    "type": "Factual"
+  },
+  {
+    "ID": 46,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 47,
+    "type": "Factual"
+  },
+  {
+    "ID": 48,
+    "type": "Factual"
+  },
+  {
+    "ID": 49,
+    "type": "Factual"
+  },
+  {
+    "ID": 50,
+    "type": "Factual"
+  },
+  {
+    "ID": 51,
+    "type": "Factual"
+  },
+  {
+    "ID": 52,
+    "type": "Factual"
+  },
+  {
+    "ID": 53,
+    "type": "Factual"
+  },
+  {
+    "ID": 54,
+    "type": "Factual"
+  },
+  {
+    "ID": 55,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 56,
+    "type": "Factual"
+  },
+  {
+    "ID": 57,
+    "type": "Factual"
+  },
+  {
+    "ID": 58,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 59,
+    "type": "Factual"
+  },
+  {
+    "ID": 60,
+    "type": "Factual"
+  },
+  {
+    "ID": 61,
+    "type": "Factual"
+  },
+  {
+    "ID": 62,
+    "type": "Factual"
+  },
+  {
+    "ID": 63,
+    "type": "Factual"
+  },
+  {
+    "ID": 64,
+    "type": "Factual"
+  },
+  {
+    "ID": 65,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 66,
+    "type": "Factual"
+  },
+  {
+    "ID": 67,
+    "type": "Factual"
+  },
+  {
+    "ID": 68,
+    "type": "Factual"
+  },
+  {
+    "ID": 69,
+    "type": "Factual"
+  },
+  {
+    "ID": 70,
+    "type": "Factual"
+  },
+  {
+    "ID": 71,
+    "type": "Factual"
+  },
+  {
+    "ID": 72,
+    "type": "Factual"
+  },
+  {
+    "ID": 73,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 74,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 75,
+    "type": "Factual"
+  },
+  {
+    "ID": 76,
+    "type": "Factual"
+  },
+  {
+    "ID": 77,
+    "type": "Factual"
+  },
+  {
+    "ID": 78,
+    "type": "Factual"
+  },
+  {
+    "ID": 79,
+    "type": "Factual"
+  },
+  {
+    "ID": 80,
+    "type": "Factual"
+  },
+  {
+    "ID": 81,
+    "type": "Factual"
+  },
+  {
+    "ID": 82,
+    "type": "Factual"
+  },
+  {
+    "ID": 83,
+    "type": "Factual"
+  },
+  {
+    "ID": 84,
+    "type": "Factual"
+  },
+  {
+    "ID": 85,
+    "type": "Factual"
+  },
+  {
+    "ID": 86,
+    "type": "Factual"
+  },
+  {
+    "ID": 87,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 88,
+    "type": "Factual"
+  },
+  {
+    "ID": 89,
+    "type": "Factual"
+  },
+  {
+    "ID": 90,
+    "type": "Factual"
+  },
+  {
+    "ID": 91,
+    "type": "Factual"
+  },
+  {
+    "ID": 92,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 93,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 94,
+    "type": "Factual"
+  },
+  {
+    "ID": 95,
+    "type": "Factual"
+  },
+  {
+    "ID": 96,
+    "type": "Factual"
+  },
+  {
+    "ID": 97,
+    "type": "Factual"
+  },
+  {
+    "ID": 98,
+    "type": "Factual"
+  },
+  {
+    "ID": 99,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 100,
+    "type": "Factual"
+  },
+  {
+    "ID": 101,
+    "type": "Factual"
+  },
+  {
+    "ID": 102,
+    "type": "Factual"
+  },
+  {
+    "ID": 103,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 104,
+    "type": "Factual"
+  },
+  {
+    "ID": 105,
+    "type": "Factual"
+  },
+  {
+    "ID": 106,
+    "type": "Factual"
+  },
+  {
+    "ID": 107,
+    "type": "Factual"
+  },
+  {
+    "ID": 108,
+    "type": "Factual"
+  },
+  {
+    "ID": 109,
+    "type": "Factual"
+  },
+  {
+    "ID": 110,
+    "type": "Factual"
+  },
+  {
+    "ID": 111,
+    "type": "Factual"
+  },
+  {
+    "ID": 112,
+    "type": "Factual"
+  },
+  {
+    "ID": 113,
+    "type": "Factual"
+  },
+  {
+    "ID": 114,
+    "type": "Factual"
+  },
+  {
+    "ID": 115,
+    "type": "Factual"
+  },
+  {
+    "ID": 116,
+    "type": "Factual"
+  },
+  {
+    "ID": 117,
+    "type": "Factual"
+  },
+  {
+    "ID": 118,
+    "type": "Factual"
+  },
+  {
+    "ID": 119,
+    "type": "Factual"
+  },
+  {
+    "ID": 120,
+    "type": "Factual"
+  },
+  {
+    "ID": 121,
+    "type": "Factual"
+  },
+  {
+    "ID": 122,
+    "type": "Factual"
+  },
+  {
+    "ID": 123,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 124,
+    "type": "Factual"
+  },
+  {
+    "ID": 125,
+    "type": "Factual"
+  },
+  {
+    "ID": 126,
+    "type": "Factual"
+  },
+  {
+    "ID": 127,
+    "type": "Factual"
+  },
+  {
+    "ID": 128,
+    "type": "Factual"
+  },
+  {
+    "ID": 129,
+    "type": "Factual"
+  },
+  {
+    "ID": 130,
+    "type": "Factual"
+  },
+  {
+    "ID": 131,
+    "type": "Factual"
+  },
+  {
+    "ID": 132,
+    "type": "Factual"
+  },
+  {
+    "ID": 133,
+    "type": "Factual"
+  },
+  {
+    "ID": 134,
+    "type": "Factual"
+  },
+  {
+    "ID": 135,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 136,
+    "type": "Factual"
+  },
+  {
+    "ID": 137,
+    "type": "Factual"
+  },
+  {
+    "ID": 138,
+    "type": "Factual"
+  },
+  {
+    "ID": 139,
+    "type": "Factual"
+  },
+  {
+    "ID": 140,
+    "type": "Factual"
+  },
+  {
+    "ID": 141,
+    "type": "Factual"
+  },
+  {
+    "ID": 142,
+    "type": "Factual"
+  },
+  {
+    "ID": 143,
+    "type": "Factual"
+  },
+  {
+    "ID": 144,
+    "type": "Factual"
+  },
+  {
+    "ID": 145,
+    "type": "Factual"
+  },
+  {
+    "ID": 146,
+    "type": "Factual"
+  },
+  {
+    "ID": 147,
+    "type": "Factual"
+  },
+  {
+    "ID": 148,
+    "type": "Factual"
+  },
+  {
+    "ID": 149,
+    "type": "Factual"
+  },
+  {
+    "ID": 150,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 151,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 152,
+    "type": "Factual"
+  },
+  {
+    "ID": 153,
+    "type": "Factual"
+  },
+  {
+    "ID": 154,
+    "type": "Factual"
+  },
+  {
+    "ID": 155,
+    "type": "Factual"
+  },
+  {
+    "ID": 156,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 157,
+    "type": "Factual"
+  },
+  {
+    "ID": 158,
+    "type": "Factual"
+  },
+  {
+    "ID": 159,
+    "type": "Factual"
+  },
+  {
+    "ID": 160,
+    "type": "Factual"
+  },
+  {
+    "ID": 161,
+    "type": "Factual"
+  },
+  {
+    "ID": 162,
+    "type": "Factual"
+  },
+  {
+    "ID": 163,
+    "type": "Factual"
+  },
+  {
+    "ID": 164,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 165,
+    "type": "Factual"
+  },
+  {
+    "ID": 166,
+    "type": "Factual"
+  },
+  {
+    "ID": 167,
+    "type": "Factual"
+  },
+  {
+    "ID": 168,
+    "type": "Factual"
+  },
+  {
+    "ID": 169,
+    "type": "Factual"
+  },
+  {
+    "ID": 170,
+    "type": "Factual"
+  },
+  {
+    "ID": 171,
+    "type": "Factual"
+  },
+  {
+    "ID": 172,
+    "type": "Factual"
+  },
+  {
+    "ID": 173,
+    "type": "Factual"
+  },
+  {
+    "ID": 174,
+    "type": "Factual"
+  },
+  {
+    "ID": 175,
+    "type": "Factual"
+  },
+  {
+    "ID": 176,
+    "type": "Factual"
+  },
+  {
+    "ID": 177,
+    "type": "Factual"
+  },
+  {
+    "ID": 178,
+    "type": "Factual"
+  },
+  {
+    "ID": 179,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 180,
+    "type": "Factual"
+  },
+  {
+    "ID": 181,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 182,
+    "type": "Factual"
+  },
+  {
+    "ID": 183,
+    "type": "Factual"
+  },
+  {
+    "ID": 184,
+    "type": "Factual"
+  },
+  {
+    "ID": 185,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 186,
+    "type": "Factual"
+  },
+  {
+    "ID": 187,
+    "type": "Factual"
+  },
+  {
+    "ID": 188,
+    "type": "Factual"
+  },
+  {
+    "ID": 189,
+    "type": "Factual"
+  },
+  {
+    "ID": 190,
+    "type": "Factual"
+  },
+  {
+    "ID": 191,
+    "type": "Factual"
+  },
+  {
+    "ID": 192,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 193,
+    "type": "Factual"
+  },
+  {
+    "ID": 194,
+    "type": "Factual"
+  },
+  {
+    "ID": 195,
+    "type": "Factual"
+  },
+  {
+    "ID": 196,
+    "type": "Factual"
+  },
+  {
+    "ID": 197,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 198,
+    "type": "Factual"
+  },
+  {
+    "ID": 199,
+    "type": "Factual"
+  },
+  {
+    "ID": 200,
+    "type": "Factual"
+  },
+  {
+    "ID": 201,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 202,
+    "type": "Factual"
+  },
+  {
+    "ID": 203,
+    "type": "Factual"
+  },
+  {
+    "ID": 204,
+    "type": "Factual"
+  },
+  {
+    "ID": 205,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 206,
+    "type": "Factual"
+  },
+  {
+    "ID": 207,
+    "type": "Factual"
+  },
+  {
+    "ID": 208,
+    "type": "Factual"
+  },
+  {
+    "ID": 209,
+    "type": "Factual"
+  },
+  {
+    "ID": 210,
+    "type": "Factual"
+  },
+  {
+    "ID": 211,
+    "type": "Factual"
+  },
+  {
+    "ID": 212,
+    "type": "Factual"
+  },
+  {
+    "ID": 213,
+    "type": "Factual"
+  },
+  {
+    "ID": 214,
+    "type": "Factual"
+  },
+  {
+    "ID": 215,
+    "type": "Factual"
+  },
+  {
+    "ID": 216,
+    "type": "Factual"
+  },
+  {
+    "ID": 217,
+    "type": "Factual"
+  },
+  {
+    "ID": 218,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 219,
+    "type": "Factual"
+  },
+  {
+    "ID": 220,
+    "type": "Factual"
+  },
+  {
+    "ID": 221,
+    "type": "Factual"
+  },
+  {
+    "ID": 222,
+    "type": "Factual"
+  },
+  {
+    "ID": 223,
+    "type": "Factual"
+  },
+  {
+    "ID": 224,
+    "type": "Factual"
+  },
+  {
+    "ID": 225,
+    "type": "Factual"
+  },
+  {
+    "ID": 226,
+    "type": "Factual"
+  },
+  {
+    "ID": 227,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 228,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 229,
+    "type": "Factual"
+  },
+  {
+    "ID": 230,
+    "type": "Factual"
+  },
+  {
+    "ID": 231,
+    "type": "Factual"
+  },
+  {
+    "ID": 232,
+    "type": "Factual"
+  },
+  {
+    "ID": 233,
+    "type": "Factual"
+  },
+  {
+    "ID": 234,
+    "type": "Factual"
+  },
+  {
+    "ID": 235,
+    "type": "Factual"
+  },
+  {
+    "ID": 236,
+    "type": "Factual"
+  },
+  {
+    "ID": 237,
+    "type": "Factual"
+  },
+  {
+    "ID": 238,
+    "type": "Factual"
+  },
+  {
+    "ID": 239,
+    "type": "Factual"
+  },
+  {
+    "ID": 240,
+    "type": "Factual"
+  },
+  {
+    "ID": 241,
+    "type": "Factual"
+  },
+  {
+    "ID": 242,
+    "type": "Factual"
+  },
+  {
+    "ID": 243,
+    "type": "Factual"
+  },
+  {
+    "ID": 244,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 245,
+    "type": "Factual"
+  },
+  {
+    "ID": 246,
+    "type": "Factual"
+  },
+  {
+    "ID": 247,
+    "type": "Factual"
+  },
+  {
+    "ID": 248,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 249,
+    "type": "Factual"
+  },
+  {
+    "ID": 250,
+    "type": "Factual"
+  },
+  {
+    "ID": 251,
+    "type": "Factual"
+  },
+  {
+    "ID": 252,
+    "type": "Factual"
+  },
+  {
+    "ID": 253,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 254,
+    "type": "Factual"
+  },
+  {
+    "ID": 255,
+    "type": "Factual"
+  },
+  {
+    "ID": 256,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 257,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 258,
+    "type": "Factual"
+  },
+  {
+    "ID": 259,
+    "type": "Factual"
+  },
+  {
+    "ID": 260,
+    "type": "Factual"
+  },
+  {
+    "ID": 261,
+    "type": "Factual"
+  },
+  {
+    "ID": 262,
+    "type": "Factual"
+  },
+  {
+    "ID": 263,
+    "type": "Factual"
+  },
+  {
+    "ID": 264,
+    "type": "Factual"
+  },
+  {
+    "ID": 265,
+    "type": "Factual"
+  },
+  {
+    "ID": 266,
+    "type": "Factual"
+  },
+  {
+    "ID": 267,
+    "type": "Factual"
+  },
+  {
+    "ID": 268,
+    "type": "Factual"
+  },
+  {
+    "ID": 269,
+    "type": "Factual"
+  },
+  {
+    "ID": 270,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 271,
+    "type": "Factual"
+  },
+  {
+    "ID": 272,
+    "type": "Factual"
+  },
+  {
+    "ID": 273,
+    "type": "Factual"
+  },
+  {
+    "ID": 274,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 275,
+    "type": "Factual"
+  },
+  {
+    "ID": 276,
+    "type": "Factual"
+  },
+  {
+    "ID": 277,
+    "type": "Factual"
+  },
+  {
+    "ID": 278,
+    "type": "Factual"
+  },
+  {
+    "ID": 279,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 280,
+    "type": "Factual"
+  },
+  {
+    "ID": 281,
+    "type": "Factual"
+  },
+  {
+    "ID": 282,
+    "type": "Factual"
+  },
+  {
+    "ID": 283,
+    "type": "Factual"
+  },
+  {
+    "ID": 284,
+    "type": "Factual"
+  },
+  {
+    "ID": 285,
+    "type": "Factual"
+  },
+  {
+    "ID": 286,
+    "type": "Factual"
+  },
+  {
+    "ID": 287,
+    "type": "Factual"
+  },
+  {
+    "ID": 288,
+    "type": "Factual"
+  },
+  {
+    "ID": 289,
+    "type": "Factual"
+  },
+  {
+    "ID": 290,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 291,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 292,
+    "type": "Factual"
+  },
+  {
+    "ID": 293,
+    "type": "Factual"
+  },
+  {
+    "ID": 294,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 295,
+    "type": "Factual"
+  },
+  {
+    "ID": 296,
+    "type": "Factual"
+  },
+  {
+    "ID": 297,
+    "type": "Factual"
+  },
+  {
+    "ID": 298,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 299,
+    "type": "Factual"
+  },
+  {
+    "ID": 300,
+    "type": "Factual"
+  },
+  {
+    "ID": 301,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 302,
+    "type": "Factual"
+  },
+  {
+    "ID": 303,
+    "type": "Factual"
+  },
+  {
+    "ID": 304,
+    "type": "Factual"
+  },
+  {
+    "ID": 305,
+    "type": "Factual"
+  },
+  {
+    "ID": 306,
+    "type": "Factual"
+  },
+  {
+    "ID": 307,
+    "type": "Factual"
+  },
+  {
+    "ID": 308,
+    "type": "Factual"
+  },
+  {
+    "ID": 309,
+    "type": "Factual"
+  },
+  {
+    "ID": 310,
+    "type": "Factual"
+  },
+  {
+    "ID": 311,
+    "type": "Factual"
+  },
+  {
+    "ID": 312,
+    "type": "Factual"
+  },
+  {
+    "ID": 313,
+    "type": "Factual"
+  },
+  {
+    "ID": 314,
+    "type": "Factual"
+  },
+  {
+    "ID": 315,
+    "type": "Factual"
+  },
+  {
+    "ID": 316,
+    "type": "Factual"
+  },
+  {
+    "ID": 317,
+    "type": "Factual"
+  },
+  {
+    "ID": 318,
+    "type": "Factual"
+  },
+  {
+    "ID": 319,
+    "type": "Factual"
+  },
+  {
+    "ID": 320,
+    "type": "Factual"
+  },
+  {
+    "ID": 321,
+    "type": "Factual"
+  },
+  {
+    "ID": 322,
+    "type": "Factual"
+  },
+  {
+    "ID": 323,
+    "type": "Factual"
+  },
+  {
+    "ID": 324,
+    "type": "Factual"
+  },
+  {
+    "ID": 325,
+    "type": "Factual"
+  },
+  {
+    "ID": 326,
+    "type": "Factual"
+  },
+  {
+    "ID": 327,
+    "type": "Factual"
+  },
+  {
+    "ID": 328,
+    "type": "Factual"
+  },
+  {
+    "ID": 329,
+    "type": "Factual"
+  },
+  {
+    "ID": 330,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 331,
+    "type": "Factual"
+  },
+  {
+    "ID": 332,
+    "type": "Factual"
+  },
+  {
+    "ID": 333,
+    "type": "Factual"
+  },
+  {
+    "ID": 334,
+    "type": "Factual"
+  },
+  {
+    "ID": 335,
+    "type": "Factual"
+  },
+  {
+    "ID": 336,
+    "type": "Factual"
+  },
+  {
+    "ID": 337,
+    "type": "Factual"
+  },
+  {
+    "ID": 338,
+    "type": "Factual"
+  },
+  {
+    "ID": 339,
+    "type": "Factual"
+  },
+  {
+    "ID": 340,
+    "type": "Factual"
+  },
+  {
+    "ID": 341,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 342,
+    "type": "Factual"
+  },
+  {
+    "ID": 343,
+    "type": "Factual"
+  },
+  {
+    "ID": 344,
+    "type": "Factual"
+  },
+  {
+    "ID": 345,
+    "type": "Factual"
+  },
+  {
+    "ID": 346,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 347,
+    "type": "Factual"
+  },
+  {
+    "ID": 348,
+    "type": "Factual"
+  },
+  {
+    "ID": 349,
+    "type": "Factual"
+  },
+  {
+    "ID": 350,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 351,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 352,
+    "type": "Factual"
+  },
+  {
+    "ID": 353,
+    "type": "Factual"
+  },
+  {
+    "ID": 354,
+    "type": "Factual"
+  },
+  {
+    "ID": 355,
+    "type": "Factual"
+  },
+  {
+    "ID": 356,
+    "type": "Factual"
+  },
+  {
+    "ID": 357,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 358,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 359,
+    "type": "Factual"
+  },
+  {
+    "ID": 360,
+    "type": "Factual"
+  },
+  {
+    "ID": 361,
+    "type": "Factual"
+  },
+  {
+    "ID": 362,
+    "type": "Factual"
+  },
+  {
+    "ID": 363,
+    "type": "Factual"
+  },
+  {
+    "ID": 364,
+    "type": "Factual"
+  },
+  {
+    "ID": 365,
+    "type": "Factual"
+  },
+  {
+    "ID": 366,
+    "type": "Factual"
+  },
+  {
+    "ID": 367,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 368,
+    "type": "Factual"
+  },
+  {
+    "ID": 369,
+    "type": "Factual"
+  },
+  {
+    "ID": 370,
+    "type": "Factual"
+  },
+  {
+    "ID": 371,
+    "type": "Factual"
+  },
+  {
+    "ID": 372,
+    "type": "Factual"
+  },
+  {
+    "ID": 373,
+    "type": "Factual"
+  },
+  {
+    "ID": 374,
+    "type": "Factual"
+  },
+  {
+    "ID": 375,
+    "type": "Factual"
+  },
+  {
+    "ID": 376,
+    "type": "Factual"
+  },
+  {
+    "ID": 377,
+    "type": "Factual"
+  },
+  {
+    "ID": 378,
+    "type": "Factual"
+  },
+  {
+    "ID": 379,
+    "type": "Factual"
+  },
+  {
+    "ID": 380,
+    "type": "Factual"
+  },
+  {
+    "ID": 381,
+    "type": "Factual"
+  },
+  {
+    "ID": 382,
+    "type": "Factual"
+  },
+  {
+    "ID": 383,
+    "type": "Factual"
+  },
+  {
+    "ID": 384,
+    "type": "Factual"
+  },
+  {
+    "ID": 385,
+    "type": "Factual"
+  },
+  {
+    "ID": 386,
+    "type": "Factual"
+  },
+  {
+    "ID": 387,
+    "type": "Factual"
+  },
+  {
+    "ID": 388,
+    "type": "Factual"
+  },
+  {
+    "ID": 389,
+    "type": "Factual"
+  },
+  {
+    "ID": 390,
+    "type": "Factual"
+  },
+  {
+    "ID": 391,
+    "type": "Factual"
+  },
+  {
+    "ID": 392,
+    "type": "Factual"
+  },
+  {
+    "ID": 393,
+    "type": "Factual"
+  },
+  {
+    "ID": 394,
+    "type": "Factual"
+  },
+  {
+    "ID": 395,
+    "type": "Factual"
+  },
+  {
+    "ID": 396,
+    "type": "Factual"
+  },
+  {
+    "ID": 397,
+    "type": "Factual"
+  },
+  {
+    "ID": 398,
+    "type": "Factual"
+  },
+  {
+    "ID": 399,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 400,
+    "type": "Factual"
+  },
+  {
+    "ID": 401,
+    "type": "Factual"
+  },
+  {
+    "ID": 402,
+    "type": "Factual"
+  },
+  {
+    "ID": 403,
+    "type": "Factual"
+  },
+  {
+    "ID": 404,
+    "type": "Factual"
+  },
+  {
+    "ID": 405,
+    "type": "Factual"
+  },
+  {
+    "ID": 406,
+    "type": "Factual"
+  },
+  {
+    "ID": 407,
+    "type": "Factual"
+  },
+  {
+    "ID": 408,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 409,
+    "type": "Factual"
+  },
+  {
+    "ID": 410,
+    "type": "Factual"
+  },
+  {
+    "ID": 411,
+    "type": "Factual"
+  },
+  {
+    "ID": 412,
+    "type": "Factual"
+  },
+  {
+    "ID": 413,
+    "type": "Factual"
+  },
+  {
+    "ID": 414,
+    "type": "Factual"
+  },
+  {
+    "ID": 415,
+    "type": "Factual"
+  },
+  {
+    "ID": 416,
+    "type": "Factual"
+  },
+  {
+    "ID": 417,
+    "type": "Factual"
+  },
+  {
+    "ID": 418,
+    "type": "Factual"
+  },
+  {
+    "ID": 419,
+    "type": "Factual"
+  },
+  {
+    "ID": 420,
+    "type": "Factual"
+  },
+  {
+    "ID": 421,
+    "type": "Factual"
+  },
+  {
+    "ID": 422,
+    "type": "Factual"
+  },
+  {
+    "ID": 423,
+    "type": "Factual"
+  },
+  {
+    "ID": 424,
+    "type": "Factual"
+  },
+  {
+    "ID": 425,
+    "type": "Factual"
+  },
+  {
+    "ID": 426,
+    "type": "Factual"
+  },
+  {
+    "ID": 427,
+    "type": "Factual"
+  },
+  {
+    "ID": 428,
+    "type": "Factual"
+  },
+  {
+    "ID": 429,
+    "type": "Factual"
+  },
+  {
+    "ID": 430,
+    "type": "Factual"
+  },
+  {
+    "ID": 431,
+    "type": "Factual"
+  },
+  {
+    "ID": 432,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 433,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 434,
+    "type": "Factual"
+  },
+  {
+    "ID": 435,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 436,
+    "type": "Factual"
+  },
+  {
+    "ID": 437,
+    "type": "Factual"
+  },
+  {
+    "ID": 438,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 439,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 440,
+    "type": "Factual"
+  },
+  {
+    "ID": 441,
+    "type": "Factual"
+  },
+  {
+    "ID": 442,
+    "type": "Factual"
+  },
+  {
+    "ID": 443,
+    "type": "Factual"
+  },
+  {
+    "ID": 444,
+    "type": "Factual"
+  },
+  {
+    "ID": 445,
+    "type": "Factual"
+  },
+  {
+    "ID": 446,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 447,
+    "type": "Factual"
+  },
+  {
+    "ID": 448,
+    "type": "Factual"
+  },
+  {
+    "ID": 449,
+    "type": "Factual"
+  },
+  {
+    "ID": 450,
+    "type": "Factual"
+  },
+  {
+    "ID": 451,
+    "type": "Factual"
+  },
+  {
+    "ID": 452,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 453,
+    "type": "Factual"
+  },
+  {
+    "ID": 454,
+    "type": "Factual"
+  },
+  {
+    "ID": 455,
+    "type": "Factual"
+  },
+  {
+    "ID": 456,
+    "type": "Factual"
+  },
+  {
+    "ID": 457,
+    "type": "Factual"
+  },
+  {
+    "ID": 458,
+    "type": "Factual"
+  },
+  {
+    "ID": 459,
+    "type": "Factual"
+  },
+  {
+    "ID": 460,
+    "type": "Factual"
+  },
+  {
+    "ID": 461,
+    "type": "Factual"
+  },
+  {
+    "ID": 462,
+    "type": "Factual"
+  },
+  {
+    "ID": 463,
+    "type": "Factual"
+  },
+  {
+    "ID": 464,
+    "type": "Factual"
+  },
+  {
+    "ID": 465,
+    "type": "Factual"
+  },
+  {
+    "ID": 466,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 467,
+    "type": "Factual"
+  },
+  {
+    "ID": 468,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 469,
+    "type": "Factual"
+  },
+  {
+    "ID": 470,
+    "type": "Factual"
+  },
+  {
+    "ID": 471,
+    "type": "Factual"
+  },
+  {
+    "ID": 472,
+    "type": "Factual"
+  },
+  {
+    "ID": 473,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 474,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 475,
+    "type": "Factual"
+  },
+  {
+    "ID": 476,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 477,
+    "type": "Factual"
+  },
+  {
+    "ID": 478,
+    "type": "Factual"
+  },
+  {
+    "ID": 479,
+    "type": "Factual"
+  },
+  {
+    "ID": 480,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 481,
+    "type": "Factual"
+  },
+  {
+    "ID": 482,
+    "type": "Factual"
+  },
+  {
+    "ID": 483,
+    "type": "Factual"
+  },
+  {
+    "ID": 484,
+    "type": "Factual"
+  },
+  {
+    "ID": 485,
+    "type": "Factual"
+  },
+  {
+    "ID": 486,
+    "type": "Factual"
+  },
+  {
+    "ID": 487,
+    "type": "Factual"
+  },
+  {
+    "ID": 488,
+    "type": "Factual"
+  },
+  {
+    "ID": 489,
+    "type": "Factual"
+  },
+  {
+    "ID": 490,
+    "type": "Factual"
+  },
+  {
+    "ID": 491,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 492,
+    "type": "Factual"
+  },
+  {
+    "ID": 493,
+    "type": "Factual"
+  },
+  {
+    "ID": 494,
+    "type": "Factual"
+  },
+  {
+    "ID": 495,
+    "type": "Factual"
+  },
+  {
+    "ID": 496,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 497,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 498,
+    "type": "Factual"
+  },
+  {
+    "ID": 499,
+    "type": "Factual"
+  },
+  {
+    "ID": 500,
+    "type": "Factual"
+  },
+  {
+    "ID": 501,
+    "type": "Factual"
+  },
+  {
+    "ID": 502,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 503,
+    "type": "Factual"
+  },
+  {
+    "ID": 504,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 505,
+    "type": "Factual"
+  },
+  {
+    "ID": 506,
+    "type": "Factual"
+  },
+  {
+    "ID": 507,
+    "type": "Factual"
+  },
+  {
+    "ID": 508,
+    "type": "Factual"
+  },
+  {
+    "ID": 509,
+    "type": "Factual"
+  },
+  {
+    "ID": 510,
+    "type": "Factual"
+  },
+  {
+    "ID": 511,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 512,
+    "type": "Factual"
+  },
+  {
+    "ID": 513,
+    "type": "Factual"
+  },
+  {
+    "ID": 514,
+    "type": "Factual"
+  },
+  {
+    "ID": 515,
+    "type": "Factual"
+  },
+  {
+    "ID": 516,
+    "type": "Factual"
+  },
+  {
+    "ID": 517,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 518,
+    "type": "Factual"
+  },
+  {
+    "ID": 519,
+    "type": "Factual"
+  },
+  {
+    "ID": 520,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 521,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 522,
+    "type": "Factual"
+  },
+  {
+    "ID": 523,
+    "type": "Factual"
+  },
+  {
+    "ID": 524,
+    "type": "Factual"
+  },
+  {
+    "ID": 525,
+    "type": "Factual"
+  },
+  {
+    "ID": 526,
+    "type": "Factual"
+  },
+  {
+    "ID": 527,
+    "type": "Factual"
+  },
+  {
+    "ID": 528,
+    "type": "Factual"
+  },
+  {
+    "ID": 529,
+    "type": "Factual"
+  },
+  {
+    "ID": 530,
+    "type": "Factual"
+  },
+  {
+    "ID": 531,
+    "type": "Factual"
+  },
+  {
+    "ID": 532,
+    "type": "Factual"
+  },
+  {
+    "ID": 533,
+    "type": "Factual"
+  },
+  {
+    "ID": 534,
+    "type": "Factual"
+  },
+  {
+    "ID": 535,
+    "type": "Factual"
+  },
+  {
+    "ID": 536,
+    "type": "Factual"
+  },
+  {
+    "ID": 537,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 538,
+    "type": "Factual"
+  },
+  {
+    "ID": 539,
+    "type": "Factual"
+  },
+  {
+    "ID": 540,
+    "type": "Factual"
+  },
+  {
+    "ID": 541,
+    "type": "Factual"
+  },
+  {
+    "ID": 542,
+    "type": "Factual"
+  },
+  {
+    "ID": 543,
+    "type": "Factual"
+  },
+  {
+    "ID": 544,
+    "type": "Factual"
+  },
+  {
+    "ID": 545,
+    "type": "Factual"
+  },
+  {
+    "ID": 546,
+    "type": "Factual"
+  },
+  {
+    "ID": 547,
+    "type": "Factual"
+  },
+  {
+    "ID": 548,
+    "type": "Factual"
+  },
+  {
+    "ID": 549,
+    "type": "Factual"
+  },
+  {
+    "ID": 550,
+    "type": "Factual"
+  },
+  {
+    "ID": 551,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 552,
+    "type": "Factual"
+  },
+  {
+    "ID": 553,
+    "type": "Factual"
+  },
+  {
+    "ID": 554,
+    "type": "Factual"
+  },
+  {
+    "ID": 555,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 556,
+    "type": "Factual"
+  },
+  {
+    "ID": 557,
+    "type": "Factual"
+  },
+  {
+    "ID": 558,
+    "type": "Factual"
+  },
+  {
+    "ID": 559,
+    "type": "Factual"
+  },
+  {
+    "ID": 560,
+    "type": "Factual"
+  },
+  {
+    "ID": 561,
+    "type": "Factual"
+  },
+  {
+    "ID": 562,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 563,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 564,
+    "type": "Factual"
+  },
+  {
+    "ID": 565,
+    "type": "Factual"
+  },
+  {
+    "ID": 566,
+    "type": "Factual"
+  },
+  {
+    "ID": 567,
+    "type": "Factual"
+  },
+  {
+    "ID": 568,
+    "type": "Factual"
+  },
+  {
+    "ID": 569,
+    "type": "Factual"
+  },
+  {
+    "ID": 570,
+    "type": "Factual"
+  },
+  {
+    "ID": 571,
+    "type": "Factual"
+  },
+  {
+    "ID": 572,
+    "type": "Factual"
+  },
+  {
+    "ID": 573,
+    "type": "Factual"
+  },
+  {
+    "ID": 574,
+    "type": "Factual"
+  },
+  {
+    "ID": 575,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 576,
+    "type": "Factual"
+  },
+  {
+    "ID": 577,
+    "type": "Factual"
+  },
+  {
+    "ID": 578,
+    "type": "Factual"
+  },
+  {
+    "ID": 579,
+    "type": "Factual"
+  },
+  {
+    "ID": 580,
+    "type": "Factual"
+  },
+  {
+    "ID": 581,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 582,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 583,
+    "type": "Factual"
+  },
+  {
+    "ID": 584,
+    "type": "Factual"
+  },
+  {
+    "ID": 585,
+    "type": "Factual"
+  },
+  {
+    "ID": 586,
+    "type": "Factual"
+  },
+  {
+    "ID": 587,
+    "type": "Factual"
+  },
+  {
+    "ID": 588,
+    "type": "Factual"
+  },
+  {
+    "ID": 589,
+    "type": "Factual"
+  },
+  {
+    "ID": 590,
+    "type": "Factual"
+  },
+  {
+    "ID": 591,
+    "type": "Factual"
+  },
+  {
+    "ID": 592,
+    "type": "Factual"
+  },
+  {
+    "ID": 593,
+    "type": "Factual"
+  },
+  {
+    "ID": 594,
+    "type": "Factual"
+  },
+  {
+    "ID": 595,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 596,
+    "type": "Factual"
+  },
+  {
+    "ID": 597,
+    "type": "Factual"
+  },
+  {
+    "ID": 598,
+    "type": "Factual"
+  },
+  {
+    "ID": 599,
+    "type": "Factual"
+  },
+  {
+    "ID": 600,
+    "type": "Factual"
+  },
+  {
+    "ID": 601,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 602,
+    "type": "Factual"
+  },
+  {
+    "ID": 603,
+    "type": "Factual"
+  },
+  {
+    "ID": 604,
+    "type": "Factual"
+  },
+  {
+    "ID": 605,
+    "type": "Factual"
+  },
+  {
+    "ID": 606,
+    "type": "Factual"
+  },
+  {
+    "ID": 607,
+    "type": "Factual"
+  },
+  {
+    "ID": 608,
+    "type": "Factual"
+  },
+  {
+    "ID": 609,
+    "type": "Factual"
+  },
+  {
+    "ID": 610,
+    "type": "Factual"
+  },
+  {
+    "ID": 611,
+    "type": "Factual"
+  },
+  {
+    "ID": 612,
+    "type": "Factual"
+  },
+  {
+    "ID": 613,
+    "type": "Factual"
+  },
+  {
+    "ID": 614,
+    "type": "Factual"
+  },
+  {
+    "ID": 615,
+    "type": "Factual"
+  },
+  {
+    "ID": 616,
+    "type": "Factual"
+  },
+  {
+    "ID": 617,
+    "type": "Factual"
+  },
+  {
+    "ID": 618,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 619,
+    "type": "Factual"
+  },
+  {
+    "ID": 620,
+    "type": "Factual"
+  },
+  {
+    "ID": 621,
+    "type": "Factual"
+  },
+  {
+    "ID": 622,
+    "type": "Factual"
+  },
+  {
+    "ID": 623,
+    "type": "Factual"
+  },
+  {
+    "ID": 624,
+    "type": "Factual"
+  },
+  {
+    "ID": 625,
+    "type": "Factual"
+  },
+  {
+    "ID": 626,
+    "type": "Factual"
+  },
+  {
+    "ID": 627,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 628,
+    "type": "Factual"
+  },
+  {
+    "ID": 629,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 630,
+    "type": "Factual"
+  },
+  {
+    "ID": 631,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 632,
+    "type": "Factual"
+  },
+  {
+    "ID": 633,
+    "type": "Factual"
+  },
+  {
+    "ID": 634,
+    "type": "Factual"
+  },
+  {
+    "ID": 635,
+    "type": "Factual"
+  },
+  {
+    "ID": 636,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 637,
+    "type": "Factual"
+  },
+  {
+    "ID": 638,
+    "type": "Factual"
+  },
+  {
+    "ID": 639,
+    "type": "Factual"
+  },
+  {
+    "ID": 640,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 641,
+    "type": "Factual"
+  },
+  {
+    "ID": 642,
+    "type": "Factual"
+  },
+  {
+    "ID": 643,
+    "type": "Factual"
+  },
+  {
+    "ID": 644,
+    "type": "Factual"
+  },
+  {
+    "ID": 645,
+    "type": "Factual"
+  },
+  {
+    "ID": 646,
+    "type": "Factual"
+  },
+  {
+    "ID": 647,
+    "type": "Factual"
+  },
+  {
+    "ID": 648,
+    "type": "Factual"
+  },
+  {
+    "ID": 649,
+    "type": "Factual"
+  },
+  {
+    "ID": 650,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 651,
+    "type": "Factual"
+  },
+  {
+    "ID": 652,
+    "type": "Factual"
+  },
+  {
+    "ID": 653,
+    "type": "Factual"
+  },
+  {
+    "ID": 654,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 655,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 656,
+    "type": "Factual"
+  },
+  {
+    "ID": 657,
+    "type": "Factual"
+  },
+  {
+    "ID": 658,
+    "type": "Factual"
+  },
+  {
+    "ID": 659,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 660,
+    "type": "Factual"
+  },
+  {
+    "ID": 661,
+    "type": "Factual"
+  },
+  {
+    "ID": 662,
+    "type": "Factual"
+  },
+  {
+    "ID": 663,
+    "type": "Factual"
+  },
+  {
+    "ID": 664,
+    "type": "Factual"
+  },
+  {
+    "ID": 665,
+    "type": "Factual"
+  },
+  {
+    "ID": 666,
+    "type": "Factual"
+  },
+  {
+    "ID": 667,
+    "type": "Factual"
+  },
+  {
+    "ID": 668,
+    "type": "Factual"
+  },
+  {
+    "ID": 669,
+    "type": "Factual"
+  },
+  {
+    "ID": 670,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 671,
+    "type": "Factual"
+  },
+  {
+    "ID": 672,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 673,
+    "type": "Factual"
+  },
+  {
+    "ID": 674,
+    "type": "Factual"
+  },
+  {
+    "ID": 675,
+    "type": "Factual"
+  },
+  {
+    "ID": 676,
+    "type": "Factual"
+  },
+  {
+    "ID": 677,
+    "type": "Factual"
+  },
+  {
+    "ID": 678,
+    "type": "Factual"
+  },
+  {
+    "ID": 679,
+    "type": "Factual"
+  },
+  {
+    "ID": 680,
+    "type": "Factual"
+  },
+  {
+    "ID": 681,
+    "type": "Factual"
+  },
+  {
+    "ID": 682,
+    "type": "Factual"
+  },
+  {
+    "ID": 683,
+    "type": "Factual"
+  },
+  {
+    "ID": 684,
+    "type": "Factual"
+  },
+  {
+    "ID": 685,
+    "type": "Factual"
+  },
+  {
+    "ID": 686,
+    "type": "Factual"
+  },
+  {
+    "ID": 687,
+    "type": "Factual"
+  },
+  {
+    "ID": 688,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 689,
+    "type": "Factual"
+  },
+  {
+    "ID": 690,
+    "type": "Factual"
+  },
+  {
+    "ID": 691,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 692,
+    "type": "Factual"
+  },
+  {
+    "ID": 693,
+    "type": "Factual"
+  },
+  {
+    "ID": 694,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 695,
+    "type": "Factual"
+  },
+  {
+    "ID": 696,
+    "type": "Factual"
+  },
+  {
+    "ID": 697,
+    "type": "Factual"
+  },
+  {
+    "ID": 698,
+    "type": "Factual"
+  },
+  {
+    "ID": 699,
+    "type": "Factual"
+  },
+  {
+    "ID": 700,
+    "type": "Factual"
+  },
+  {
+    "ID": 701,
+    "type": "Factual"
+  },
+  {
+    "ID": 702,
+    "type": "Factual"
+  },
+  {
+    "ID": 703,
+    "type": "Factual"
+  },
+  {
+    "ID": 704,
+    "type": "Factual"
+  },
+  {
+    "ID": 705,
+    "type": "Factual"
+  },
+  {
+    "ID": 706,
+    "type": "Factual"
+  },
+  {
+    "ID": 707,
+    "type": "Factual"
+  },
+  {
+    "ID": 708,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 709,
+    "type": "Factual"
+  },
+  {
+    "ID": 710,
+    "type": "Factual"
+  },
+  {
+    "ID": 711,
+    "type": "Factual"
+  },
+  {
+    "ID": 712,
+    "type": "Factual"
+  },
+  {
+    "ID": 713,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 714,
+    "type": "Factual"
+  },
+  {
+    "ID": 715,
+    "type": "Factual"
+  },
+  {
+    "ID": 716,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 717,
+    "type": "Factual"
+  },
+  {
+    "ID": 718,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 719,
+    "type": "Factual"
+  },
+  {
+    "ID": 720,
+    "type": "Factual"
+  },
+  {
+    "ID": 721,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 722,
+    "type": "Factual"
+  },
+  {
+    "ID": 723,
+    "type": "Factual"
+  },
+  {
+    "ID": 724,
+    "type": "Factual"
+  },
+  {
+    "ID": 725,
+    "type": "Factual"
+  },
+  {
+    "ID": 726,
+    "type": "Factual"
+  },
+  {
+    "ID": 727,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 728,
+    "type": "Factual"
+  },
+  {
+    "ID": 729,
+    "type": "Factual"
+  },
+  {
+    "ID": 730,
+    "type": "Factual"
+  },
+  {
+    "ID": 731,
+    "type": "Factual"
+  },
+  {
+    "ID": 732,
+    "type": "Factual"
+  },
+  {
+    "ID": 733,
+    "type": "Factual"
+  },
+  {
+    "ID": 734,
+    "type": "Factual"
+  },
+  {
+    "ID": 735,
+    "type": "Factual"
+  },
+  {
+    "ID": 736,
+    "type": "Factual"
+  },
+  {
+    "ID": 737,
+    "type": "Factual"
+  },
+  {
+    "ID": 738,
+    "type": "Factual"
+  },
+  {
+    "ID": 739,
+    "type": "Factual"
+  },
+  {
+    "ID": 740,
+    "type": "Factual"
+  },
+  {
+    "ID": 741,
+    "type": "Factual"
+  },
+  {
+    "ID": 742,
+    "type": "Factual"
+  },
+  {
+    "ID": 743,
+    "type": "Factual"
+  },
+  {
+    "ID": 744,
+    "type": "Factual"
+  },
+  {
+    "ID": 745,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 746,
+    "type": "Factual"
+  },
+  {
+    "ID": 747,
+    "type": "Factual"
+  },
+  {
+    "ID": 748,
+    "type": "Factual"
+  },
+  {
+    "ID": 749,
+    "type": "Factual"
+  },
+  {
+    "ID": 750,
+    "type": "Factual"
+  },
+  {
+    "ID": 751,
+    "type": "Factual"
+  },
+  {
+    "ID": 752,
+    "type": "Factual"
+  },
+  {
+    "ID": 753,
+    "type": "Factual"
+  },
+  {
+    "ID": 754,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 755,
+    "type": "Factual"
+  },
+  {
+    "ID": 756,
+    "type": "Factual"
+  },
+  {
+    "ID": 757,
+    "type": "Factual"
+  },
+  {
+    "ID": 758,
+    "type": "Factual"
+  },
+  {
+    "ID": 759,
+    "type": "Factual"
+  },
+  {
+    "ID": 760,
+    "type": "Factual"
+  },
+  {
+    "ID": 761,
+    "type": "Factual"
+  },
+  {
+    "ID": 762,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 763,
+    "type": "Factual"
+  },
+  {
+    "ID": 764,
+    "type": "Factual"
+  },
+  {
+    "ID": 765,
+    "type": "Factual"
+  },
+  {
+    "ID": 766,
+    "type": "Factual"
+  },
+  {
+    "ID": 767,
+    "type": "Factual"
+  },
+  {
+    "ID": 768,
+    "type": "Factual"
+  },
+  {
+    "ID": 769,
+    "type": "Factual"
+  },
+  {
+    "ID": 770,
+    "type": "Factual"
+  },
+  {
+    "ID": 771,
+    "type": "Factual"
+  },
+  {
+    "ID": 772,
+    "type": "Factual"
+  },
+  {
+    "ID": 773,
+    "type": "Factual"
+  },
+  {
+    "ID": 774,
+    "type": "Factual"
+  },
+  {
+    "ID": 775,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 776,
+    "type": "Factual"
+  },
+  {
+    "ID": 777,
+    "type": "Factual"
+  },
+  {
+    "ID": 778,
+    "type": "Factual"
+  },
+  {
+    "ID": 779,
+    "type": "Factual"
+  },
+  {
+    "ID": 780,
+    "type": "Factual"
+  },
+  {
+    "ID": 781,
+    "type": "Factual"
+  },
+  {
+    "ID": 782,
+    "type": "Factual"
+  },
+  {
+    "ID": 783,
+    "type": "Factual"
+  },
+  {
+    "ID": 784,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 785,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 786,
+    "type": "Factual"
+  },
+  {
+    "ID": 787,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 788,
+    "type": "Factual"
+  },
+  {
+    "ID": 789,
+    "type": "Factual"
+  },
+  {
+    "ID": 790,
+    "type": "Factual"
+  },
+  {
+    "ID": 791,
+    "type": "Factual"
+  },
+  {
+    "ID": 792,
+    "type": "Factual"
+  },
+  {
+    "ID": 793,
+    "type": "Factual"
+  },
+  {
+    "ID": 794,
+    "type": "Factual"
+  },
+  {
+    "ID": 795,
+    "type": "Factual"
+  },
+  {
+    "ID": 796,
+    "type": "Factual"
+  },
+  {
+    "ID": 797,
+    "type": "Factual"
+  },
+  {
+    "ID": 798,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 799,
+    "type": "Factual"
+  },
+  {
+    "ID": 800,
+    "type": "Factual"
+  },
+  {
+    "ID": 801,
+    "type": "Factual"
+  },
+  {
+    "ID": 802,
+    "type": "Factual"
+  },
+  {
+    "ID": 803,
+    "type": "Factual"
+  },
+  {
+    "ID": 804,
+    "type": "Factual"
+  },
+  {
+    "ID": 805,
+    "type": "Factual"
+  },
+  {
+    "ID": 806,
+    "type": "Factual"
+  },
+  {
+    "ID": 807,
+    "type": "Factual"
+  },
+  {
+    "ID": 808,
+    "type": "Factual"
+  },
+  {
+    "ID": 809,
+    "type": "Factual"
+  },
+  {
+    "ID": 810,
+    "type": "Factual"
+  },
+  {
+    "ID": 811,
+    "type": "Factual"
+  },
+  {
+    "ID": 812,
+    "type": "Factual"
+  },
+  {
+    "ID": 813,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 814,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 815,
+    "type": "Factual"
+  },
+  {
+    "ID": 816,
+    "type": "Factual"
+  },
+  {
+    "ID": 817,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 818,
+    "type": "Factual"
+  },
+  {
+    "ID": 819,
+    "type": "Factual"
+  },
+  {
+    "ID": 820,
+    "type": "Factual"
+  },
+  {
+    "ID": 821,
+    "type": "Factual"
+  },
+  {
+    "ID": 822,
+    "type": "Factual"
+  },
+  {
+    "ID": 823,
+    "type": "Factual"
+  },
+  {
+    "ID": 824,
+    "type": "Factual"
+  },
+  {
+    "ID": 825,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 826,
+    "type": "Factual"
+  },
+  {
+    "ID": 827,
+    "type": "Factual"
+  },
+  {
+    "ID": 828,
+    "type": "Factual"
+  },
+  {
+    "ID": 829,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 830,
+    "type": "Factual"
+  },
+  {
+    "ID": 831,
+    "type": "Factual"
+  },
+  {
+    "ID": 832,
+    "type": "Factual"
+  },
+  {
+    "ID": 833,
+    "type": "Factual"
+  },
+  {
+    "ID": 834,
+    "type": "Factual"
+  },
+  {
+    "ID": 835,
+    "type": "Factual"
+  },
+  {
+    "ID": 836,
+    "type": "Factual"
+  },
+  {
+    "ID": 837,
+    "type": "Factual"
+  },
+  {
+    "ID": 838,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 839,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 840,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 841,
+    "type": "Factual"
+  },
+  {
+    "ID": 842,
+    "type": "Factual"
+  },
+  {
+    "ID": 843,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 844,
+    "type": "Factual"
+  },
+  {
+    "ID": 845,
+    "type": "Factual"
+  },
+  {
+    "ID": 846,
+    "type": "Factual"
+  },
+  {
+    "ID": 847,
+    "type": "Factual"
+  },
+  {
+    "ID": 848,
+    "type": "Factual"
+  },
+  {
+    "ID": 849,
+    "type": "Factual"
+  },
+  {
+    "ID": 850,
+    "type": "Factual"
+  },
+  {
+    "ID": 851,
+    "type": "Factual"
+  },
+  {
+    "ID": 852,
+    "type": "Factual"
+  },
+  {
+    "ID": 853,
+    "type": "Factual"
+  },
+  {
+    "ID": 854,
+    "type": "Factual"
+  },
+  {
+    "ID": 855,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 856,
+    "type": "Factual"
+  },
+  {
+    "ID": 857,
+    "type": "Factual"
+  },
+  {
+    "ID": 858,
+    "type": "Factual"
+  },
+  {
+    "ID": 859,
+    "type": "Factual"
+  },
+  {
+    "ID": 860,
+    "type": "Factual"
+  },
+  {
+    "ID": 861,
+    "type": "Factual"
+  },
+  {
+    "ID": 862,
+    "type": "Factual"
+  },
+  {
+    "ID": 863,
+    "type": "Factual"
+  },
+  {
+    "ID": 864,
+    "type": "Factual"
+  },
+  {
+    "ID": 865,
+    "type": "Factual"
+  },
+  {
+    "ID": 866,
+    "type": "Factual"
+  },
+  {
+    "ID": 867,
+    "type": "Factual"
+  },
+  {
+    "ID": 868,
+    "type": "Factual"
+  },
+  {
+    "ID": 869,
+    "type": "Factual"
+  },
+  {
+    "ID": 870,
+    "type": "Factual"
+  },
+  {
+    "ID": 871,
+    "type": "Factual"
+  },
+  {
+    "ID": 872,
+    "type": "Factual"
+  },
+  {
+    "ID": 873,
+    "type": "Factual"
+  },
+  {
+    "ID": 874,
+    "type": "Factual"
+  },
+  {
+    "ID": 875,
+    "type": "Factual"
+  },
+  {
+    "ID": 876,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 877,
+    "type": "Factual"
+  },
+  {
+    "ID": 878,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 879,
+    "type": "Factual"
+  },
+  {
+    "ID": 880,
+    "type": "Factual"
+  },
+  {
+    "ID": 881,
+    "type": "Factual"
+  },
+  {
+    "ID": 882,
+    "type": "Factual"
+  },
+  {
+    "ID": 883,
+    "type": "Factual"
+  },
+  {
+    "ID": 884,
+    "type": "Factual"
+  },
+  {
+    "ID": 885,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 886,
+    "type": "Factual"
+  },
+  {
+    "ID": 887,
+    "type": "Factual"
+  },
+  {
+    "ID": 888,
+    "type": "Factual"
+  },
+  {
+    "ID": 889,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 890,
+    "type": "Factual"
+  },
+  {
+    "ID": 891,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 892,
+    "type": "Factual"
+  },
+  {
+    "ID": 893,
+    "type": "Factual"
+  },
+  {
+    "ID": 894,
+    "type": "Factual"
+  },
+  {
+    "ID": 895,
+    "type": "Factual"
+  },
+  {
+    "ID": 896,
+    "type": "Factual"
+  },
+  {
+    "ID": 897,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 898,
+    "type": "Factual"
+  },
+  {
+    "ID": 899,
+    "type": "Factual"
+  },
+  {
+    "ID": 900,
+    "type": "Factual"
+  },
+  {
+    "ID": 901,
+    "type": "Factual"
+  },
+  {
+    "ID": 902,
+    "type": "Factual"
+  },
+  {
+    "ID": 903,
+    "type": "Factual"
+  },
+  {
+    "ID": 904,
+    "type": "Factual"
+  },
+  {
+    "ID": 905,
+    "type": "Factual"
+  },
+  {
+    "ID": 906,
+    "type": "Factual"
+  },
+  {
+    "ID": 907,
+    "type": "Factual"
+  },
+  {
+    "ID": 908,
+    "type": "Factual"
+  },
+  {
+    "ID": 909,
+    "type": "Factual"
+  },
+  {
+    "ID": 910,
+    "type": "Factual"
+  },
+  {
+    "ID": 911,
+    "type": "Factual"
+  },
+  {
+    "ID": 912,
+    "type": "Factual"
+  },
+  {
+    "ID": 913,
+    "type": "Factual"
+  },
+  {
+    "ID": 914,
+    "type": "Factual"
+  },
+  {
+    "ID": 915,
+    "type": "Factual"
+  },
+  {
+    "ID": 916,
+    "type": "Factual"
+  },
+  {
+    "ID": 917,
+    "type": "Factual"
+  },
+  {
+    "ID": 918,
+    "type": "Factual"
+  },
+  {
+    "ID": 919,
+    "type": "Factual"
+  },
+  {
+    "ID": 920,
+    "type": "Factual"
+  },
+  {
+    "ID": 921,
+    "type": "Factual"
+  },
+  {
+    "ID": 922,
+    "type": "Factual"
+  },
+  {
+    "ID": 923,
+    "type": "Factual"
+  },
+  {
+    "ID": 924,
+    "type": "Factual"
+  },
+  {
+    "ID": 925,
+    "type": "Factual"
+  },
+  {
+    "ID": 926,
+    "type": "Factual"
+  },
+  {
+    "ID": 927,
+    "type": "Factual"
+  },
+  {
+    "ID": 928,
+    "type": "Factual"
+  },
+  {
+    "ID": 929,
+    "type": "Factual"
+  },
+  {
+    "ID": 930,
+    "type": "Factual"
+  },
+  {
+    "ID": 931,
+    "type": "Factual"
+  },
+  {
+    "ID": 932,
+    "type": "Factual"
+  },
+  {
+    "ID": 933,
+    "type": "Factual"
+  },
+  {
+    "ID": 934,
+    "type": "Factual"
+  },
+  {
+    "ID": 935,
+    "type": "Factual"
+  },
+  {
+    "ID": 936,
+    "type": "Factual"
+  },
+  {
+    "ID": 937,
+    "type": "Factual"
+  },
+  {
+    "ID": 938,
+    "type": "Factual"
+  },
+  {
+    "ID": 939,
+    "type": "Factual"
+  },
+  {
+    "ID": 940,
+    "type": "Factual"
+  },
+  {
+    "ID": 941,
+    "type": "Factual"
+  },
+  {
+    "ID": 942,
+    "type": "Factual"
+  },
+  {
+    "ID": 943,
+    "type": "Factual"
+  },
+  {
+    "ID": 944,
+    "type": "Factual"
+  },
+  {
+    "ID": 945,
+    "type": "Factual"
+  },
+  {
+    "ID": 946,
+    "type": "Factual"
+  },
+  {
+    "ID": 947,
+    "type": "Factual"
+  },
+  {
+    "ID": 948,
+    "type": "Factual"
+  },
+  {
+    "ID": 949,
+    "type": "Factual"
+  },
+  {
+    "ID": 950,
+    "type": "Factual"
+  },
+  {
+    "ID": 951,
+    "type": "Factual"
+  },
+  {
+    "ID": 952,
+    "type": "Factual"
+  },
+  {
+    "ID": 953,
+    "type": "Factual"
+  },
+  {
+    "ID": 954,
+    "type": "Factual"
+  },
+  {
+    "ID": 955,
+    "type": "Factual"
+  },
+  {
+    "ID": 956,
+    "type": "Factual"
+  },
+  {
+    "ID": 957,
+    "type": "Factual"
+  },
+  {
+    "ID": 958,
+    "type": "Factual"
+  },
+  {
+    "ID": 959,
+    "type": "Factual"
+  },
+  {
+    "ID": 960,
+    "type": "Factual"
+  },
+  {
+    "ID": 961,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 962,
+    "type": "Factual"
+  },
+  {
+    "ID": 963,
+    "type": "Factual"
+  },
+  {
+    "ID": 964,
+    "type": "Factual"
+  },
+  {
+    "ID": 965,
+    "type": "Factual"
+  },
+  {
+    "ID": 966,
+    "type": "Factual"
+  },
+  {
+    "ID": 967,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 968,
+    "type": "Factual"
+  },
+  {
+    "ID": 969,
+    "type": "Factual"
+  },
+  {
+    "ID": 970,
+    "type": "Factual"
+  },
+  {
+    "ID": 971,
+    "type": "Factual"
+  },
+  {
+    "ID": 972,
+    "type": "Factual"
+  },
+  {
+    "ID": 973,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 974,
+    "type": "Factual"
+  },
+  {
+    "ID": 975,
+    "type": "Factual"
+  },
+  {
+    "ID": 976,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 977,
+    "type": "Factual"
+  },
+  {
+    "ID": 978,
+    "type": "Factual"
+  },
+  {
+    "ID": 979,
+    "type": "Factual"
+  },
+  {
+    "ID": 980,
+    "type": "Factual"
+  },
+  {
+    "ID": 981,
+    "type": "Factual"
+  },
+  {
+    "ID": 982,
+    "type": "Factual"
+  },
+  {
+    "ID": 983,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 984,
+    "type": "Factual"
+  },
+  {
+    "ID": 985,
+    "type": "Factual"
+  },
+  {
+    "ID": 986,
+    "type": "Factual"
+  },
+  {
+    "ID": 987,
+    "type": "Factual"
+  },
+  {
+    "ID": 988,
+    "type": "Factual"
+  },
+  {
+    "ID": 989,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 990,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 991,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 992,
+    "type": "Factual"
+  },
+  {
+    "ID": 993,
+    "type": "Factual"
+  },
+  {
+    "ID": 994,
+    "type": "Factual"
+  },
+  {
+    "ID": 995,
+    "type": "Factual"
+  },
+  {
+    "ID": 996,
+    "type": "Factual"
+  },
+  {
+    "ID": 997,
+    "type": "Factual"
+  },
+  {
+    "ID": 998,
+    "type": "Factual"
+  },
+  {
+    "ID": 999,
+    "type": "Factual"
+  },
+  {
+    "ID": 1000,
+    "type": "Factual"
+  },
+  {
+    "ID": 1001,
+    "type": "Factual"
+  },
+  {
+    "ID": 1002,
+    "type": "Factual"
+  },
+  {
+    "ID": 1003,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1004,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1005,
+    "type": "Factual"
+  },
+  {
+    "ID": 1006,
+    "type": "Factual"
+  },
+  {
+    "ID": 1007,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1008,
+    "type": "Factual"
+  },
+  {
+    "ID": 1009,
+    "type": "Factual"
+  },
+  {
+    "ID": 1010,
+    "type": "Factual"
+  },
+  {
+    "ID": 1011,
+    "type": "Factual"
+  },
+  {
+    "ID": 1012,
+    "type": "Factual"
+  },
+  {
+    "ID": 1013,
+    "type": "Factual"
+  },
+  {
+    "ID": 1014,
+    "type": "Factual"
+  },
+  {
+    "ID": 1015,
+    "type": "Factual"
+  },
+  {
+    "ID": 1016,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1017,
+    "type": "Factual"
+  },
+  {
+    "ID": 1018,
+    "type": "Factual"
+  },
+  {
+    "ID": 1019,
+    "type": "Factual"
+  },
+  {
+    "ID": 1020,
+    "type": "Factual"
+  },
+  {
+    "ID": 1021,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1022,
+    "type": "Factual"
+  },
+  {
+    "ID": 1023,
+    "type": "Factual"
+  },
+  {
+    "ID": 1024,
+    "type": "Factual"
+  },
+  {
+    "ID": 1025,
+    "type": "Factual"
+  },
+  {
+    "ID": 1026,
+    "type": "Factual"
+  },
+  {
+    "ID": 1027,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1028,
+    "type": "Factual"
+  },
+  {
+    "ID": 1029,
+    "type": "Factual"
+  },
+  {
+    "ID": 1030,
+    "type": "Factual"
+  },
+  {
+    "ID": 1031,
+    "type": "Factual"
+  },
+  {
+    "ID": 1032,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1033,
+    "type": "Factual"
+  },
+  {
+    "ID": 1034,
+    "type": "Factual"
+  },
+  {
+    "ID": 1035,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1036,
+    "type": "Factual"
+  },
+  {
+    "ID": 1037,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1038,
+    "type": "Factual"
+  },
+  {
+    "ID": 1039,
+    "type": "Factual"
+  },
+  {
+    "ID": 1040,
+    "type": "Factual"
+  },
+  {
+    "ID": 1041,
+    "type": "Factual"
+  },
+  {
+    "ID": 1042,
+    "type": "Factual"
+  },
+  {
+    "ID": 1043,
+    "type": "Factual"
+  },
+  {
+    "ID": 1044,
+    "type": "Factual"
+  },
+  {
+    "ID": 1045,
+    "type": "Factual"
+  },
+  {
+    "ID": 1046,
+    "type": "Factual"
+  },
+  {
+    "ID": 1047,
+    "type": "Factual"
+  },
+  {
+    "ID": 1048,
+    "type": "Factual"
+  },
+  {
+    "ID": 1049,
+    "type": "Factual"
+  },
+  {
+    "ID": 1050,
+    "type": "Factual"
+  },
+  {
+    "ID": 1051,
+    "type": "Factual"
+  },
+  {
+    "ID": 1052,
+    "type": "Factual"
+  },
+  {
+    "ID": 1053,
+    "type": "Factual"
+  },
+  {
+    "ID": 1054,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1055,
+    "type": "Factual"
+  },
+  {
+    "ID": 1056,
+    "type": "Factual"
+  },
+  {
+    "ID": 1057,
+    "type": "Factual"
+  },
+  {
+    "ID": 1058,
+    "type": "Factual"
+  },
+  {
+    "ID": 1059,
+    "type": "Factual"
+  },
+  {
+    "ID": 1060,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1061,
+    "type": "Factual"
+  },
+  {
+    "ID": 1062,
+    "type": "Factual"
+  },
+  {
+    "ID": 1063,
+    "type": "Factual"
+  },
+  {
+    "ID": 1064,
+    "type": "Factual"
+  },
+  {
+    "ID": 1065,
+    "type": "Factual"
+  },
+  {
+    "ID": 1066,
+    "type": "Factual"
+  },
+  {
+    "ID": 1067,
+    "type": "Factual"
+  },
+  {
+    "ID": 1068,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1069,
+    "type": "Factual"
+  },
+  {
+    "ID": 1070,
+    "type": "Factual"
+  },
+  {
+    "ID": 1071,
+    "type": "Factual"
+  },
+  {
+    "ID": 1072,
+    "type": "Factual"
+  },
+  {
+    "ID": 1073,
+    "type": "Factual"
+  },
+  {
+    "ID": 1074,
+    "type": "Factual"
+  },
+  {
+    "ID": 1075,
+    "type": "Factual"
+  },
+  {
+    "ID": 1076,
+    "type": "Factual"
+  },
+  {
+    "ID": 1077,
+    "type": "Factual"
+  },
+  {
+    "ID": 1078,
+    "type": "Factual"
+  },
+  {
+    "ID": 1079,
+    "type": "Factual"
+  },
+  {
+    "ID": 1080,
+    "type": "Factual"
+  },
+  {
+    "ID": 1081,
+    "type": "Factual"
+  },
+  {
+    "ID": 1082,
+    "type": "Factual"
+  },
+  {
+    "ID": 1083,
+    "type": "Factual"
+  },
+  {
+    "ID": 1084,
+    "type": "Factual"
+  },
+  {
+    "ID": 1085,
+    "type": "Factual"
+  },
+  {
+    "ID": 1086,
+    "type": "Factual"
+  },
+  {
+    "ID": 1087,
+    "type": "Factual"
+  },
+  {
+    "ID": 1088,
+    "type": "Factual"
+  },
+  {
+    "ID": 1089,
+    "type": "Factual"
+  },
+  {
+    "ID": 1090,
+    "type": "Factual"
+  },
+  {
+    "ID": 1091,
+    "type": "Factual"
+  },
+  {
+    "ID": 1092,
+    "type": "Factual"
+  },
+  {
+    "ID": 1093,
+    "type": "Factual"
+  },
+  {
+    "ID": 1094,
+    "type": "Factual"
+  },
+  {
+    "ID": 1095,
+    "type": "Factual"
+  },
+  {
+    "ID": 1096,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1097,
+    "type": "Factual"
+  },
+  {
+    "ID": 1098,
+    "type": "Factual"
+  },
+  {
+    "ID": 1099,
+    "type": "Factual"
+  },
+  {
+    "ID": 1100,
+    "type": "Factual"
+  },
+  {
+    "ID": 1101,
+    "type": "Factual"
+  },
+  {
+    "ID": 1102,
+    "type": "Factual"
+  },
+  {
+    "ID": 1103,
+    "type": "Factual"
+  },
+  {
+    "ID": 1104,
+    "type": "Factual"
+  },
+  {
+    "ID": 1105,
+    "type": "Factual"
+  },
+  {
+    "ID": 1106,
+    "type": "Factual"
+  },
+  {
+    "ID": 1107,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1108,
+    "type": "Factual"
+  },
+  {
+    "ID": 1109,
+    "type": "Factual"
+  },
+  {
+    "ID": 1110,
+    "type": "Factual"
+  },
+  {
+    "ID": 1111,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1112,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1113,
+    "type": "Factual"
+  },
+  {
+    "ID": 1114,
+    "type": "Factual"
+  },
+  {
+    "ID": 1115,
+    "type": "Factual"
+  },
+  {
+    "ID": 1116,
+    "type": "Factual"
+  },
+  {
+    "ID": 1117,
+    "type": "Factual"
+  },
+  {
+    "ID": 1118,
+    "type": "Factual"
+  },
+  {
+    "ID": 1119,
+    "type": "Factual"
+  },
+  {
+    "ID": 1120,
+    "type": "Factual"
+  },
+  {
+    "ID": 1121,
+    "type": "Factual"
+  },
+  {
+    "ID": 1122,
+    "type": "Factual"
+  },
+  {
+    "ID": 1123,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1124,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1125,
+    "type": "Factual"
+  },
+  {
+    "ID": 1126,
+    "type": "Factual"
+  },
+  {
+    "ID": 1127,
+    "type": "Factual"
+  },
+  {
+    "ID": 1128,
+    "type": "Factual"
+  },
+  {
+    "ID": 1129,
+    "type": "Factual"
+  },
+  {
+    "ID": 1130,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1131,
+    "type": "Factual"
+  },
+  {
+    "ID": 1132,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1133,
+    "type": "Factual"
+  },
+  {
+    "ID": 1134,
+    "type": "Factual"
+  },
+  {
+    "ID": 1135,
+    "type": "Factual"
+  },
+  {
+    "ID": 1136,
+    "type": "Factual"
+  },
+  {
+    "ID": 1137,
+    "type": "Factual"
+  },
+  {
+    "ID": 1138,
+    "type": "Factual"
+  },
+  {
+    "ID": 1139,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1140,
+    "type": "Factual"
+  },
+  {
+    "ID": 1141,
+    "type": "Factual"
+  },
+  {
+    "ID": 1142,
+    "type": "Factual"
+  },
+  {
+    "ID": 1143,
+    "type": "Factual"
+  },
+  {
+    "ID": 1144,
+    "type": "Factual"
+  },
+  {
+    "ID": 1145,
+    "type": "Factual"
+  },
+  {
+    "ID": 1146,
+    "type": "Factual"
+  },
+  {
+    "ID": 1147,
+    "type": "Factual"
+  },
+  {
+    "ID": 1148,
+    "type": "Factual"
+  },
+  {
+    "ID": 1149,
+    "type": "Factual"
+  },
+  {
+    "ID": 1150,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1151,
+    "type": "Factual"
+  },
+  {
+    "ID": 1152,
+    "type": "Factual"
+  },
+  {
+    "ID": 1153,
+    "type": "Factual"
+  },
+  {
+    "ID": 1154,
+    "type": "Factual"
+  },
+  {
+    "ID": 1155,
+    "type": "Factual"
+  },
+  {
+    "ID": 1156,
+    "type": "Factual"
+  },
+  {
+    "ID": 1157,
+    "type": "Factual"
+  },
+  {
+    "ID": 1158,
+    "type": "Factual"
+  },
+  {
+    "ID": 1159,
+    "type": "Factual"
+  },
+  {
+    "ID": 1160,
+    "type": "Factual"
+  },
+  {
+    "ID": 1161,
+    "type": "Factual"
+  },
+  {
+    "ID": 1162,
+    "type": "Factual"
+  },
+  {
+    "ID": 1163,
+    "type": "Factual"
+  },
+  {
+    "ID": 1164,
+    "type": "Factual"
+  },
+  {
+    "ID": 1165,
+    "type": "Factual"
+  },
+  {
+    "ID": 1166,
+    "type": "Factual"
+  },
+  {
+    "ID": 1167,
+    "type": "Factual"
+  },
+  {
+    "ID": 1168,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1169,
+    "type": "Factual"
+  },
+  {
+    "ID": 1170,
+    "type": "Factual"
+  },
+  {
+    "ID": 1171,
+    "type": "Factual"
+  },
+  {
+    "ID": 1172,
+    "type": "Factual"
+  },
+  {
+    "ID": 1173,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1174,
+    "type": "Factual"
+  },
+  {
+    "ID": 1175,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1176,
+    "type": "Factual"
+  },
+  {
+    "ID": 1177,
+    "type": "Factual"
+  },
+  {
+    "ID": 1178,
+    "type": "Factual"
+  },
+  {
+    "ID": 1179,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1180,
+    "type": "Factual"
+  },
+  {
+    "ID": 1181,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1182,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1183,
+    "type": "Factual"
+  },
+  {
+    "ID": 1184,
+    "type": "Factual"
+  },
+  {
+    "ID": 1185,
+    "type": "Factual"
+  },
+  {
+    "ID": 1186,
+    "type": "Factual"
+  },
+  {
+    "ID": 1187,
+    "type": "Factual"
+  },
+  {
+    "ID": 1188,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1189,
+    "type": "Factual"
+  },
+  {
+    "ID": 1190,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1191,
+    "type": "Factual"
+  },
+  {
+    "ID": 1192,
+    "type": "Factual"
+  },
+  {
+    "ID": 1193,
+    "type": "Factual"
+  },
+  {
+    "ID": 1194,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1195,
+    "type": "Factual"
+  },
+  {
+    "ID": 1196,
+    "type": "Factual"
+  },
+  {
+    "ID": 1197,
+    "type": "Factual"
+  },
+  {
+    "ID": 1198,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1199,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1200,
+    "type": "Factual"
+  },
+  {
+    "ID": 1201,
+    "type": "Factual"
+  },
+  {
+    "ID": 1202,
+    "type": "Factual"
+  },
+  {
+    "ID": 1203,
+    "type": "Factual"
+  },
+  {
+    "ID": 1204,
+    "type": "Factual"
+  },
+  {
+    "ID": 1205,
+    "type": "Factual"
+  },
+  {
+    "ID": 1206,
+    "type": "Factual"
+  },
+  {
+    "ID": 1207,
+    "type": "Factual"
+  },
+  {
+    "ID": 1208,
+    "type": "Factual"
+  },
+  {
+    "ID": 1209,
+    "type": "Factual"
+  },
+  {
+    "ID": 1210,
+    "type": "Factual"
+  },
+  {
+    "ID": 1211,
+    "type": "Factual"
+  },
+  {
+    "ID": 1212,
+    "type": "Factual"
+  },
+  {
+    "ID": 1213,
+    "type": "Factual"
+  },
+  {
+    "ID": 1214,
+    "type": "Factual"
+  },
+  {
+    "ID": 1215,
+    "type": "Factual"
+  },
+  {
+    "ID": 1216,
+    "type": "Factual"
+  },
+  {
+    "ID": 1217,
+    "type": "Factual"
+  },
+  {
+    "ID": 1218,
+    "type": "Factual"
+  },
+  {
+    "ID": 1219,
+    "type": "Factual"
+  },
+  {
+    "ID": 1220,
+    "type": "Factual"
+  },
+  {
+    "ID": 1221,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1222,
+    "type": "Factual"
+  },
+  {
+    "ID": 1223,
+    "type": "Factual"
+  },
+  {
+    "ID": 1224,
+    "type": "Factual"
+  },
+  {
+    "ID": 1225,
+    "type": "Factual"
+  },
+  {
+    "ID": 1226,
+    "type": "Factual"
+  },
+  {
+    "ID": 1227,
+    "type": "Factual"
+  },
+  {
+    "ID": 1228,
+    "type": "Factual"
+  },
+  {
+    "ID": 1229,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1230,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1231,
+    "type": "Factual"
+  },
+  {
+    "ID": 1232,
+    "type": "Factual"
+  },
+  {
+    "ID": 1233,
+    "type": "Factual"
+  },
+  {
+    "ID": 1234,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1235,
+    "type": "Factual"
+  },
+  {
+    "ID": 1236,
+    "type": "Factual"
+  },
+  {
+    "ID": 1237,
+    "type": "Factual"
+  },
+  {
+    "ID": 1238,
+    "type": "Factual"
+  },
+  {
+    "ID": 1239,
+    "type": "Factual"
+  },
+  {
+    "ID": 1240,
+    "type": "Factual"
+  },
+  {
+    "ID": 1241,
+    "type": "Factual"
+  },
+  {
+    "ID": 1242,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1243,
+    "type": "Factual"
+  },
+  {
+    "ID": 1244,
+    "type": "Factual"
+  },
+  {
+    "ID": 1245,
+    "type": "Factual"
+  },
+  {
+    "ID": 1246,
+    "type": "Factual"
+  },
+  {
+    "ID": 1247,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1248,
+    "type": "Factual"
+  },
+  {
+    "ID": 1249,
+    "type": "Factual"
+  },
+  {
+    "ID": 1250,
+    "type": "Factual"
+  },
+  {
+    "ID": 1251,
+    "type": "Factual"
+  },
+  {
+    "ID": 1252,
+    "type": "Factual"
+  },
+  {
+    "ID": 1253,
+    "type": "Factual"
+  },
+  {
+    "ID": 1254,
+    "type": "Factual"
+  },
+  {
+    "ID": 1255,
+    "type": "Factual"
+  },
+  {
+    "ID": 1256,
+    "type": "Factual"
+  },
+  {
+    "ID": 1257,
+    "type": "Factual"
+  },
+  {
+    "ID": 1258,
+    "type": "Factual"
+  },
+  {
+    "ID": 1259,
+    "type": "Factual"
+  },
+  {
+    "ID": 1260,
+    "type": "Factual"
+  },
+  {
+    "ID": 1261,
+    "type": "Factual"
+  },
+  {
+    "ID": 1262,
+    "type": "Factual"
+  },
+  {
+    "ID": 1263,
+    "type": "Factual"
+  },
+  {
+    "ID": 1264,
+    "type": "Factual"
+  },
+  {
+    "ID": 1265,
+    "type": "Factual"
+  },
+  {
+    "ID": 1266,
+    "type": "Factual"
+  },
+  {
+    "ID": 1267,
+    "type": "Factual"
+  },
+  {
+    "ID": 1268,
+    "type": "Factual"
+  },
+  {
+    "ID": 1269,
+    "type": "Factual"
+  },
+  {
+    "ID": 1270,
+    "type": "Factual"
+  },
+  {
+    "ID": 1271,
+    "type": "Factual"
+  },
+  {
+    "ID": 1272,
+    "type": "Factual"
+  },
+  {
+    "ID": 1273,
+    "type": "Factual"
+  },
+  {
+    "ID": 1274,
+    "type": "Factual"
+  },
+  {
+    "ID": 1275,
+    "type": "Factual"
+  },
+  {
+    "ID": 1276,
+    "type": "Factual"
+  },
+  {
+    "ID": 1277,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1278,
+    "type": "Factual"
+  },
+  {
+    "ID": 1279,
+    "type": "Factual"
+  },
+  {
+    "ID": 1280,
+    "type": "Factual"
+  },
+  {
+    "ID": 1281,
+    "type": "Factual"
+  },
+  {
+    "ID": 1282,
+    "type": "Factual"
+  },
+  {
+    "ID": 1283,
+    "type": "Factual"
+  },
+  {
+    "ID": 1284,
+    "type": "Factual"
+  },
+  {
+    "ID": 1285,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1286,
+    "type": "Factual"
+  },
+  {
+    "ID": 1287,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1288,
+    "type": "Factual"
+  },
+  {
+    "ID": 1289,
+    "type": "Factual"
+  },
+  {
+    "ID": 1290,
+    "type": "Factual"
+  },
+  {
+    "ID": 1291,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1292,
+    "type": "Factual"
+  },
+  {
+    "ID": 1293,
+    "type": "Factual"
+  },
+  {
+    "ID": 1294,
+    "type": "Factual"
+  },
+  {
+    "ID": 1295,
+    "type": "Factual"
+  },
+  {
+    "ID": 1296,
+    "type": "Factual"
+  },
+  {
+    "ID": 1297,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1298,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1299,
+    "type": "Factual"
+  },
+  {
+    "ID": 1300,
+    "type": "Factual"
+  },
+  {
+    "ID": 1301,
+    "type": "Factual"
+  },
+  {
+    "ID": 1302,
+    "type": "Factual"
+  },
+  {
+    "ID": 1303,
+    "type": "Factual"
+  },
+  {
+    "ID": 1304,
+    "type": "Factual"
+  },
+  {
+    "ID": 1305,
+    "type": "Factual"
+  },
+  {
+    "ID": 1306,
+    "type": "Factual"
+  },
+  {
+    "ID": 1307,
+    "type": "Factual"
+  },
+  {
+    "ID": 1308,
+    "type": "Factual"
+  },
+  {
+    "ID": 1309,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1310,
+    "type": "Factual"
+  },
+  {
+    "ID": 1311,
+    "type": "Factual"
+  },
+  {
+    "ID": 1312,
+    "type": "Factual"
+  },
+  {
+    "ID": 1313,
+    "type": "Factual"
+  },
+  {
+    "ID": 1314,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1315,
+    "type": "Factual"
+  },
+  {
+    "ID": 1316,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1317,
+    "type": "Factual"
+  },
+  {
+    "ID": 1318,
+    "type": "Factual"
+  },
+  {
+    "ID": 1319,
+    "type": "Factual"
+  },
+  {
+    "ID": 1320,
+    "type": "Factual"
+  },
+  {
+    "ID": 1321,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1322,
+    "type": "Factual"
+  },
+  {
+    "ID": 1323,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1324,
+    "type": "Factual"
+  },
+  {
+    "ID": 1325,
+    "type": "Factual"
+  },
+  {
+    "ID": 1326,
+    "type": "Factual"
+  },
+  {
+    "ID": 1327,
+    "type": "Factual"
+  },
+  {
+    "ID": 1328,
+    "type": "Factual"
+  },
+  {
+    "ID": 1329,
+    "type": "Factual"
+  },
+  {
+    "ID": 1330,
+    "type": "Factual"
+  },
+  {
+    "ID": 1331,
+    "type": "Factual"
+  },
+  {
+    "ID": 1332,
+    "type": "Factual"
+  },
+  {
+    "ID": 1333,
+    "type": "Factual"
+  },
+  {
+    "ID": 1334,
+    "type": "Factual"
+  },
+  {
+    "ID": 1335,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1336,
+    "type": "Factual"
+  },
+  {
+    "ID": 1337,
+    "type": "Factual"
+  },
+  {
+    "ID": 1338,
+    "type": "Factual"
+  },
+  {
+    "ID": 1339,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1340,
+    "type": "Factual"
+  },
+  {
+    "ID": 1341,
+    "type": "Factual"
+  },
+  {
+    "ID": 1342,
+    "type": "Factual"
+  },
+  {
+    "ID": 1343,
+    "type": "Factual"
+  },
+  {
+    "ID": 1344,
+    "type": "Factual"
+  },
+  {
+    "ID": 1345,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1346,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1347,
+    "type": "Factual"
+  },
+  {
+    "ID": 1348,
+    "type": "Factual"
+  },
+  {
+    "ID": 1349,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1350,
+    "type": "Factual"
+  },
+  {
+    "ID": 1351,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1352,
+    "type": "Factual"
+  },
+  {
+    "ID": 1353,
+    "type": "Factual"
+  },
+  {
+    "ID": 1354,
+    "type": "Factual"
+  },
+  {
+    "ID": 1355,
+    "type": "Factual"
+  },
+  {
+    "ID": 1356,
+    "type": "Factual"
+  },
+  {
+    "ID": 1357,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1358,
+    "type": "Factual"
+  },
+  {
+    "ID": 1359,
+    "type": "Factual"
+  },
+  {
+    "ID": 1360,
+    "type": "Factual"
+  },
+  {
+    "ID": 1361,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1362,
+    "type": "Factual"
+  },
+  {
+    "ID": 1363,
+    "type": "Factual"
+  },
+  {
+    "ID": 1364,
+    "type": "Factual"
+  },
+  {
+    "ID": 1365,
+    "type": "Factual"
+  },
+  {
+    "ID": 1366,
+    "type": "Factual"
+  },
+  {
+    "ID": 1367,
+    "type": "Factual"
+  },
+  {
+    "ID": 1368,
+    "type": "Factual"
+  },
+  {
+    "ID": 1369,
+    "type": "Factual"
+  },
+  {
+    "ID": 1370,
+    "type": "Factual"
+  },
+  {
+    "ID": 1371,
+    "type": "Factual"
+  },
+  {
+    "ID": 1372,
+    "type": "Factual"
+  },
+  {
+    "ID": 1373,
+    "type": "Factual"
+  },
+  {
+    "ID": 1374,
+    "type": "Factual"
+  },
+  {
+    "ID": 1375,
+    "type": "Factual"
+  },
+  {
+    "ID": 1376,
+    "type": "Factual"
+  },
+  {
+    "ID": 1377,
+    "type": "Factual"
+  },
+  {
+    "ID": 1378,
+    "type": "Factual"
+  },
+  {
+    "ID": 1379,
+    "type": "Factual"
+  },
+  {
+    "ID": 1380,
+    "type": "Factual"
+  },
+  {
+    "ID": 1381,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1382,
+    "type": "Factual"
+  },
+  {
+    "ID": 1383,
+    "type": "Factual"
+  },
+  {
+    "ID": 1384,
+    "type": "Factual"
+  },
+  {
+    "ID": 1385,
+    "type": "Factual"
+  },
+  {
+    "ID": 1386,
+    "type": "Factual"
+  },
+  {
+    "ID": 1387,
+    "type": "Factual"
+  },
+  {
+    "ID": 1388,
+    "type": "Factual"
+  },
+  {
+    "ID": 1389,
+    "type": "Factual"
+  },
+  {
+    "ID": 1390,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1391,
+    "type": "Factual"
+  },
+  {
+    "ID": 1392,
+    "type": "Factual"
+  },
+  {
+    "ID": 1393,
+    "type": "Factual"
+  },
+  {
+    "ID": 1394,
+    "type": "Factual"
+  },
+  {
+    "ID": 1395,
+    "type": "Factual"
+  },
+  {
+    "ID": 1396,
+    "type": "Factual"
+  },
+  {
+    "ID": 1397,
+    "type": "Factual"
+  },
+  {
+    "ID": 1398,
+    "type": "Factual"
+  },
+  {
+    "ID": 1399,
+    "type": "Factual"
+  },
+  {
+    "ID": 1400,
+    "type": "Factual"
+  },
+  {
+    "ID": 1401,
+    "type": "Factual"
+  },
+  {
+    "ID": 1402,
+    "type": "Factual"
+  },
+  {
+    "ID": 1403,
+    "type": "Factual"
+  },
+  {
+    "ID": 1404,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1405,
+    "type": "Factual"
+  },
+  {
+    "ID": 1406,
+    "type": "Factual"
+  },
+  {
+    "ID": 1407,
+    "type": "Factual"
+  },
+  {
+    "ID": 1408,
+    "type": "Factual"
+  },
+  {
+    "ID": 1409,
+    "type": "Factual"
+  },
+  {
+    "ID": 1410,
+    "type": "Factual"
+  },
+  {
+    "ID": 1411,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1412,
+    "type": "Factual"
+  },
+  {
+    "ID": 1413,
+    "type": "Factual"
+  },
+  {
+    "ID": 1414,
+    "type": "Factual"
+  },
+  {
+    "ID": 1415,
+    "type": "Factual"
+  },
+  {
+    "ID": 1416,
+    "type": "Factual"
+  },
+  {
+    "ID": 1417,
+    "type": "Factual"
+  },
+  {
+    "ID": 1418,
+    "type": "Factual"
+  },
+  {
+    "ID": 1419,
+    "type": "Factual"
+  },
+  {
+    "ID": 1420,
+    "type": "Factual"
+  },
+  {
+    "ID": 1421,
+    "type": "Factual"
+  },
+  {
+    "ID": 1422,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1423,
+    "type": "Factual"
+  },
+  {
+    "ID": 1424,
+    "type": "Factual"
+  },
+  {
+    "ID": 1425,
+    "type": "Factual"
+  },
+  {
+    "ID": 1426,
+    "type": "Factual"
+  },
+  {
+    "ID": 1427,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1428,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1429,
+    "type": "Factual"
+  },
+  {
+    "ID": 1430,
+    "type": "Factual"
+  },
+  {
+    "ID": 1431,
+    "type": "Factual"
+  },
+  {
+    "ID": 1432,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1433,
+    "type": "Factual"
+  },
+  {
+    "ID": 1434,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1435,
+    "type": "Factual"
+  },
+  {
+    "ID": 1436,
+    "type": "Factual"
+  },
+  {
+    "ID": 1437,
+    "type": "Factual"
+  },
+  {
+    "ID": 1438,
+    "type": "Factual"
+  },
+  {
+    "ID": 1439,
+    "type": "Factual"
+  },
+  {
+    "ID": 1440,
+    "type": "Factual"
+  },
+  {
+    "ID": 1441,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1442,
+    "type": "Factual"
+  },
+  {
+    "ID": 1443,
+    "type": "Factual"
+  },
+  {
+    "ID": 1444,
+    "type": "Factual"
+  },
+  {
+    "ID": 1445,
+    "type": "Factual"
+  },
+  {
+    "ID": 1446,
+    "type": "Factual"
+  },
+  {
+    "ID": 1447,
+    "type": "Factual"
+  },
+  {
+    "ID": 1448,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1449,
+    "type": "Factual"
+  },
+  {
+    "ID": 1450,
+    "type": "Factual"
+  },
+  {
+    "ID": 1451,
+    "type": "Factual"
+  },
+  {
+    "ID": 1452,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1453,
+    "type": "Factual"
+  },
+  {
+    "ID": 1454,
+    "type": "Factual"
+  },
+  {
+    "ID": 1455,
+    "type": "Factual"
+  },
+  {
+    "ID": 1456,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1457,
+    "type": "Factual"
+  },
+  {
+    "ID": 1458,
+    "type": "Factual"
+  },
+  {
+    "ID": 1459,
+    "type": "Factual"
+  },
+  {
+    "ID": 1460,
+    "type": "Factual"
+  },
+  {
+    "ID": 1461,
+    "type": "Factual"
+  },
+  {
+    "ID": 1462,
+    "type": "Factual"
+  },
+  {
+    "ID": 1463,
+    "type": "Factual"
+  },
+  {
+    "ID": 1464,
+    "type": "Factual"
+  },
+  {
+    "ID": 1465,
+    "type": "Factual"
+  },
+  {
+    "ID": 1466,
+    "type": "Factual"
+  },
+  {
+    "ID": 1467,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1468,
+    "type": "Factual"
+  },
+  {
+    "ID": 1469,
+    "type": "Factual"
+  },
+  {
+    "ID": 1470,
+    "type": "Factual"
+  },
+  {
+    "ID": 1471,
+    "type": "Factual"
+  },
+  {
+    "ID": 1472,
+    "type": "Factual"
+  },
+  {
+    "ID": 1473,
+    "type": "Factual"
+  },
+  {
+    "ID": 1474,
+    "type": "Factual"
+  },
+  {
+    "ID": 1475,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1476,
+    "type": "Factual"
+  },
+  {
+    "ID": 1477,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1478,
+    "type": "Factual"
+  },
+  {
+    "ID": 1479,
+    "type": "Factual"
+  },
+  {
+    "ID": 1480,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1481,
+    "type": "Factual"
+  },
+  {
+    "ID": 1482,
+    "type": "Factual"
+  },
+  {
+    "ID": 1483,
+    "type": "Factual"
+  },
+  {
+    "ID": 1484,
+    "type": "Factual"
+  },
+  {
+    "ID": 1485,
+    "type": "Factual"
+  },
+  {
+    "ID": 1486,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1487,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1488,
+    "type": "Factual"
+  },
+  {
+    "ID": 1489,
+    "type": "Factual"
+  },
+  {
+    "ID": 1490,
+    "type": "Factual"
+  },
+  {
+    "ID": 1491,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1492,
+    "type": "Factual"
+  },
+  {
+    "ID": 1493,
+    "type": "Factual"
+  },
+  {
+    "ID": 1494,
+    "type": "Factual"
+  },
+  {
+    "ID": 1495,
+    "type": "Factual"
+  },
+  {
+    "ID": 1496,
+    "type": "Factual"
+  },
+  {
+    "ID": 1497,
+    "type": "Factual"
+  },
+  {
+    "ID": 1498,
+    "type": "Factual"
+  },
+  {
+    "ID": 1499,
+    "type": "Factual"
+  },
+  {
+    "ID": 1500,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1501,
+    "type": "Factual"
+  },
+  {
+    "ID": 1502,
+    "type": "Factual"
+  },
+  {
+    "ID": 1503,
+    "type": "Factual"
+  },
+  {
+    "ID": 1504,
+    "type": "Factual"
+  },
+  {
+    "ID": 1505,
+    "type": "Factual"
+  },
+  {
+    "ID": 1506,
+    "type": "Factual"
+  },
+  {
+    "ID": 1507,
+    "type": "Factual"
+  },
+  {
+    "ID": 1508,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1509,
+    "type": "Factual"
+  },
+  {
+    "ID": 1510,
+    "type": "Factual"
+  },
+  {
+    "ID": 1511,
+    "type": "Factual"
+  },
+  {
+    "ID": 1512,
+    "type": "Factual"
+  },
+  {
+    "ID": 1513,
+    "type": "Factual"
+  },
+  {
+    "ID": 1514,
+    "type": "Factual"
+  },
+  {
+    "ID": 1515,
+    "type": "Factual"
+  },
+  {
+    "ID": 1516,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1517,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1518,
+    "type": "Factual"
+  },
+  {
+    "ID": 1519,
+    "type": "Factual"
+  },
+  {
+    "ID": 1520,
+    "type": "Factual"
+  },
+  {
+    "ID": 1521,
+    "type": "Factual"
+  },
+  {
+    "ID": 1522,
+    "type": "Factual"
+  },
+  {
+    "ID": 1523,
+    "type": "Factual"
+  },
+  {
+    "ID": 1524,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1525,
+    "type": "Factual"
+  },
+  {
+    "ID": 1526,
+    "type": "Factual"
+  },
+  {
+    "ID": 1527,
+    "type": "Factual"
+  },
+  {
+    "ID": 1528,
+    "type": "Factual"
+  },
+  {
+    "ID": 1529,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1530,
+    "type": "Factual"
+  },
+  {
+    "ID": 1531,
+    "type": "Factual"
+  },
+  {
+    "ID": 1532,
+    "type": "Factual"
+  },
+  {
+    "ID": 1533,
+    "type": "Factual"
+  },
+  {
+    "ID": 1534,
+    "type": "Factual"
+  },
+  {
+    "ID": 1535,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1536,
+    "type": "Factual"
+  },
+  {
+    "ID": 1537,
+    "type": "Factual"
+  },
+  {
+    "ID": 1538,
+    "type": "Factual"
+  },
+  {
+    "ID": 1539,
+    "type": "Factual"
+  },
+  {
+    "ID": 1540,
+    "type": "Factual"
+  },
+  {
+    "ID": 1541,
+    "type": "Factual"
+  },
+  {
+    "ID": 1542,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1543,
+    "type": "Factual"
+  },
+  {
+    "ID": 1544,
+    "type": "Factual"
+  },
+  {
+    "ID": 1545,
+    "type": "Factual"
+  },
+  {
+    "ID": 1546,
+    "type": "Factual"
+  },
+  {
+    "ID": 1547,
+    "type": "Factual"
+  },
+  {
+    "ID": 1548,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1549,
+    "type": "Factual"
+  },
+  {
+    "ID": 1550,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1551,
+    "type": "Factual"
+  },
+  {
+    "ID": 1552,
+    "type": "Factual"
+  },
+  {
+    "ID": 1553,
+    "type": "Factual"
+  },
+  {
+    "ID": 1554,
+    "type": "Factual"
+  },
+  {
+    "ID": 1555,
+    "type": "Factual"
+  },
+  {
+    "ID": 1556,
+    "type": "Factual"
+  },
+  {
+    "ID": 1557,
+    "type": "Factual"
+  },
+  {
+    "ID": 1558,
+    "type": "Factual"
+  },
+  {
+    "ID": 1559,
+    "type": "Factual"
+  },
+  {
+    "ID": 1560,
+    "type": "Factual"
+  },
+  {
+    "ID": 1561,
+    "type": "Factual"
+  },
+  {
+    "ID": 1562,
+    "type": "Factual"
+  },
+  {
+    "ID": 1563,
+    "type": "Factual"
+  },
+  {
+    "ID": 1564,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1565,
+    "type": "Factual"
+  },
+  {
+    "ID": 1566,
+    "type": "Factual"
+  },
+  {
+    "ID": 1567,
+    "type": "Factual"
+  },
+  {
+    "ID": 1568,
+    "type": "Factual"
+  },
+  {
+    "ID": 1569,
+    "type": "Factual"
+  },
+  {
+    "ID": 1570,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1571,
+    "type": "Factual"
+  },
+  {
+    "ID": 1572,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1573,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1574,
+    "type": "Factual"
+  },
+  {
+    "ID": 1575,
+    "type": "Factual"
+  },
+  {
+    "ID": 1576,
+    "type": "Factual"
+  },
+  {
+    "ID": 1577,
+    "type": "Factual"
+  },
+  {
+    "ID": 1578,
+    "type": "Factual"
+  },
+  {
+    "ID": 1579,
+    "type": "Factual"
+  },
+  {
+    "ID": 1580,
+    "type": "Factual"
+  },
+  {
+    "ID": 1581,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1582,
+    "type": "Factual"
+  },
+  {
+    "ID": 1583,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1584,
+    "type": "Factual"
+  },
+  {
+    "ID": 1585,
+    "type": "Factual"
+  },
+  {
+    "ID": 1586,
+    "type": "Factual"
+  },
+  {
+    "ID": 1587,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1588,
+    "type": "Factual"
+  },
+  {
+    "ID": 1589,
+    "type": "Factual"
+  },
+  {
+    "ID": 1590,
+    "type": "Factual"
+  },
+  {
+    "ID": 1591,
+    "type": "Factual"
+  },
+  {
+    "ID": 1592,
+    "type": "Factual"
+  },
+  {
+    "ID": 1593,
+    "type": "Factual"
+  },
+  {
+    "ID": 1594,
+    "type": "Factual"
+  },
+  {
+    "ID": 1595,
+    "type": "Factual"
+  },
+  {
+    "ID": 1596,
+    "type": "Factual"
+  },
+  {
+    "ID": 1597,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1598,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1599,
+    "type": "Factual"
+  },
+  {
+    "ID": 1600,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1601,
+    "type": "Factual"
+  },
+  {
+    "ID": 1602,
+    "type": "Factual"
+  },
+  {
+    "ID": 1603,
+    "type": "Factual"
+  },
+  {
+    "ID": 1604,
+    "type": "Factual"
+  },
+  {
+    "ID": 1605,
+    "type": "Factual"
+  },
+  {
+    "ID": 1606,
+    "type": "Factual"
+  },
+  {
+    "ID": 1607,
+    "type": "Factual"
+  },
+  {
+    "ID": 1608,
+    "type": "Factual"
+  },
+  {
+    "ID": 1609,
+    "type": "Factual"
+  },
+  {
+    "ID": 1610,
+    "type": "Factual"
+  },
+  {
+    "ID": 1611,
+    "type": "Factual"
+  },
+  {
+    "ID": 1612,
+    "type": "Factual"
+  },
+  {
+    "ID": 1613,
+    "type": "Factual"
+  },
+  {
+    "ID": 1614,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1615,
+    "type": "Factual"
+  },
+  {
+    "ID": 1616,
+    "type": "Factual"
+  },
+  {
+    "ID": 1617,
+    "type": "Factual"
+  },
+  {
+    "ID": 1618,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1619,
+    "type": "Factual"
+  },
+  {
+    "ID": 1620,
+    "type": "Factual"
+  },
+  {
+    "ID": 1621,
+    "type": "Factual"
+  },
+  {
+    "ID": 1622,
+    "type": "Factual"
+  },
+  {
+    "ID": 1623,
+    "type": "Factual"
+  },
+  {
+    "ID": 1624,
+    "type": "Factual"
+  },
+  {
+    "ID": 1625,
+    "type": "Factual"
+  },
+  {
+    "ID": 1626,
+    "type": "Factual"
+  },
+  {
+    "ID": 1627,
+    "type": "Factual"
+  },
+  {
+    "ID": 1628,
+    "type": "Factual"
+  },
+  {
+    "ID": 1629,
+    "type": "Factual"
+  },
+  {
+    "ID": 1630,
+    "type": "Factual"
+  },
+  {
+    "ID": 1631,
+    "type": "Factual"
+  },
+  {
+    "ID": 1632,
+    "type": "Factual"
+  },
+  {
+    "ID": 1633,
+    "type": "Factual"
+  },
+  {
+    "ID": 1634,
+    "type": "Factual"
+  },
+  {
+    "ID": 1635,
+    "type": "Factual"
+  },
+  {
+    "ID": 1636,
+    "type": "Factual"
+  },
+  {
+    "ID": 1637,
+    "type": "Factual"
+  },
+  {
+    "ID": 1638,
+    "type": "Factual"
+  },
+  {
+    "ID": 1639,
+    "type": "Factual"
+  },
+  {
+    "ID": 1640,
+    "type": "Factual"
+  },
+  {
+    "ID": 1641,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1642,
+    "type": "Factual"
+  },
+  {
+    "ID": 1643,
+    "type": "Factual"
+  },
+  {
+    "ID": 1644,
+    "type": "Factual"
+  },
+  {
+    "ID": 1645,
+    "type": "Factual"
+  },
+  {
+    "ID": 1646,
+    "type": "Factual"
+  },
+  {
+    "ID": 1647,
+    "type": "Factual"
+  },
+  {
+    "ID": 1648,
+    "type": "Factual"
+  },
+  {
+    "ID": 1649,
+    "type": "Factual"
+  },
+  {
+    "ID": 1650,
+    "type": "Factual"
+  },
+  {
+    "ID": 1651,
+    "type": "Factual"
+  },
+  {
+    "ID": 1652,
+    "type": "Factual"
+  },
+  {
+    "ID": 1653,
+    "type": "Factual"
+  },
+  {
+    "ID": 1654,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1655,
+    "type": "Factual"
+  },
+  {
+    "ID": 1656,
+    "type": "Factual"
+  },
+  {
+    "ID": 1657,
+    "type": "Factual"
+  },
+  {
+    "ID": 1658,
+    "type": "Factual"
+  },
+  {
+    "ID": 1659,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1660,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1661,
+    "type": "Factual"
+  },
+  {
+    "ID": 1662,
+    "type": "Factual"
+  },
+  {
+    "ID": 1663,
+    "type": "Factual"
+  },
+  {
+    "ID": 1664,
+    "type": "Factual"
+  },
+  {
+    "ID": 1665,
+    "type": "Factual"
+  },
+  {
+    "ID": 1666,
+    "type": "Factual"
+  },
+  {
+    "ID": 1667,
+    "type": "Factual"
+  },
+  {
+    "ID": 1668,
+    "type": "Factual"
+  },
+  {
+    "ID": 1669,
+    "type": "Factual"
+  },
+  {
+    "ID": 1670,
+    "type": "Factual"
+  },
+  {
+    "ID": 1671,
+    "type": "Factual"
+  },
+  {
+    "ID": 1672,
+    "type": "Factual"
+  },
+  {
+    "ID": 1673,
+    "type": "Factual"
+  },
+  {
+    "ID": 1674,
+    "type": "Factual"
+  },
+  {
+    "ID": 1675,
+    "type": "Factual"
+  },
+  {
+    "ID": 1676,
+    "type": "Factual"
+  },
+  {
+    "ID": 1677,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1678,
+    "type": "Factual"
+  },
+  {
+    "ID": 1679,
+    "type": "Factual"
+  },
+  {
+    "ID": 1680,
+    "type": "Factual"
+  },
+  {
+    "ID": 1681,
+    "type": "Factual"
+  },
+  {
+    "ID": 1682,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1683,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1684,
+    "type": "Factual"
+  },
+  {
+    "ID": 1685,
+    "type": "Factual"
+  },
+  {
+    "ID": 1686,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1687,
+    "type": "Factual"
+  },
+  {
+    "ID": 1688,
+    "type": "Factual"
+  },
+  {
+    "ID": 1689,
+    "type": "Factual"
+  },
+  {
+    "ID": 1690,
+    "type": "Factual"
+  },
+  {
+    "ID": 1691,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1692,
+    "type": "Factual"
+  },
+  {
+    "ID": 1693,
+    "type": "Factual"
+  },
+  {
+    "ID": 1694,
+    "type": "Factual"
+  },
+  {
+    "ID": 1695,
+    "type": "Factual"
+  },
+  {
+    "ID": 1696,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1697,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1698,
+    "type": "Factual"
+  },
+  {
+    "ID": 1699,
+    "type": "Factual"
+  },
+  {
+    "ID": 1700,
+    "type": "Factual"
+  },
+  {
+    "ID": 1701,
+    "type": "Factual"
+  },
+  {
+    "ID": 1702,
+    "type": "Factual"
+  },
+  {
+    "ID": 1703,
+    "type": "Factual"
+  },
+  {
+    "ID": 1704,
+    "type": "Factual"
+  },
+  {
+    "ID": 1705,
+    "type": "Factual"
+  },
+  {
+    "ID": 1706,
+    "type": "Factual"
+  },
+  {
+    "ID": 1707,
+    "type": "Factual"
+  },
+  {
+    "ID": 1708,
+    "type": "Factual"
+  },
+  {
+    "ID": 1709,
+    "type": "Factual"
+  },
+  {
+    "ID": 1710,
+    "type": "Factual"
+  },
+  {
+    "ID": 1711,
+    "type": "Factual"
+  },
+  {
+    "ID": 1712,
+    "type": "Factual"
+  },
+  {
+    "ID": 1713,
+    "type": "Factual"
+  },
+  {
+    "ID": 1714,
+    "type": "Factual"
+  },
+  {
+    "ID": 1715,
+    "type": "Factual"
+  },
+  {
+    "ID": 1716,
+    "type": "Factual"
+  },
+  {
+    "ID": 1717,
+    "type": "Factual"
+  },
+  {
+    "ID": 1718,
+    "type": "Factual"
+  },
+  {
+    "ID": 1719,
+    "type": "Factual"
+  },
+  {
+    "ID": 1720,
+    "type": "Factual"
+  },
+  {
+    "ID": 1721,
+    "type": "Factual"
+  },
+  {
+    "ID": 1722,
+    "type": "Factual"
+  },
+  {
+    "ID": 1723,
+    "type": "Factual"
+  },
+  {
+    "ID": 1724,
+    "type": "Factual"
+  },
+  {
+    "ID": 1725,
+    "type": "Factual"
+  },
+  {
+    "ID": 1726,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1727,
+    "type": "Factual"
+  },
+  {
+    "ID": 1728,
+    "type": "Factual"
+  },
+  {
+    "ID": 1729,
+    "type": "Factual"
+  },
+  {
+    "ID": 1730,
+    "type": "Factual"
+  },
+  {
+    "ID": 1731,
+    "type": "Factual"
+  },
+  {
+    "ID": 1732,
+    "type": "Factual"
+  },
+  {
+    "ID": 1733,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1734,
+    "type": "Factual"
+  },
+  {
+    "ID": 1735,
+    "type": "Factual"
+  },
+  {
+    "ID": 1736,
+    "type": "Factual"
+  },
+  {
+    "ID": 1737,
+    "type": "Factual"
+  },
+  {
+    "ID": 1738,
+    "type": "Factual"
+  },
+  {
+    "ID": 1739,
+    "type": "Factual"
+  },
+  {
+    "ID": 1740,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1741,
+    "type": "Factual"
+  },
+  {
+    "ID": 1742,
+    "type": "Factual"
+  },
+  {
+    "ID": 1743,
+    "type": "Factual"
+  },
+  {
+    "ID": 1744,
+    "type": "Factual"
+  },
+  {
+    "ID": 1745,
+    "type": "Factual"
+  },
+  {
+    "ID": 1746,
+    "type": "Factual"
+  },
+  {
+    "ID": 1747,
+    "type": "Factual"
+  },
+  {
+    "ID": 1748,
+    "type": "Factual"
+  },
+  {
+    "ID": 1749,
+    "type": "Factual"
+  },
+  {
+    "ID": 1750,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1751,
+    "type": "Factual"
+  },
+  {
+    "ID": 1752,
+    "type": "Factual"
+  },
+  {
+    "ID": 1753,
+    "type": "Factual"
+  },
+  {
+    "ID": 1754,
+    "type": "Factual"
+  },
+  {
+    "ID": 1755,
+    "type": "Factual"
+  },
+  {
+    "ID": 1756,
+    "type": "Factual"
+  },
+  {
+    "ID": 1757,
+    "type": "Factual"
+  },
+  {
+    "ID": 1758,
+    "type": "Factual"
+  },
+  {
+    "ID": 1759,
+    "type": "Factual"
+  },
+  {
+    "ID": 1760,
+    "type": "Factual"
+  },
+  {
+    "ID": 1761,
+    "type": "Factual"
+  },
+  {
+    "ID": 1762,
+    "type": "Factual"
+  },
+  {
+    "ID": 1763,
+    "type": "Factual"
+  },
+  {
+    "ID": 1764,
+    "type": "Factual"
+  },
+  {
+    "ID": 1765,
+    "type": "Factual"
+  },
+  {
+    "ID": 1766,
+    "type": "Factual"
+  },
+  {
+    "ID": 1767,
+    "type": "Factual"
+  },
+  {
+    "ID": 1768,
+    "type": "Factual"
+  },
+  {
+    "ID": 1769,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1770,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1771,
+    "type": "Factual"
+  },
+  {
+    "ID": 1772,
+    "type": "Factual"
+  },
+  {
+    "ID": 1773,
+    "type": "Factual"
+  },
+  {
+    "ID": 1774,
+    "type": "Factual"
+  },
+  {
+    "ID": 1775,
+    "type": "Factual"
+  },
+  {
+    "ID": 1776,
+    "type": "Factual"
+  },
+  {
+    "ID": 1777,
+    "type": "Factual"
+  },
+  {
+    "ID": 1778,
+    "type": "Factual"
+  },
+  {
+    "ID": 1779,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1780,
+    "type": "Factual"
+  },
+  {
+    "ID": 1781,
+    "type": "Factual"
+  },
+  {
+    "ID": 1782,
+    "type": "Factual"
+  },
+  {
+    "ID": 1783,
+    "type": "Factual"
+  },
+  {
+    "ID": 1784,
+    "type": "Factual"
+  },
+  {
+    "ID": 1785,
+    "type": "Factual"
+  },
+  {
+    "ID": 1786,
+    "type": "Factual"
+  },
+  {
+    "ID": 1787,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1788,
+    "type": "Factual"
+  },
+  {
+    "ID": 1789,
+    "type": "Factual"
+  },
+  {
+    "ID": 1790,
+    "type": "Factual"
+  },
+  {
+    "ID": 1791,
+    "type": "Factual"
+  },
+  {
+    "ID": 1792,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1793,
+    "type": "Factual"
+  },
+  {
+    "ID": 1794,
+    "type": "Factual"
+  },
+  {
+    "ID": 1795,
+    "type": "Factual"
+  },
+  {
+    "ID": 1796,
+    "type": "Factual"
+  },
+  {
+    "ID": 1797,
+    "type": "Factual"
+  },
+  {
+    "ID": 1798,
+    "type": "Factual"
+  },
+  {
+    "ID": 1799,
+    "type": "Factual"
+  },
+  {
+    "ID": 1800,
+    "type": "Factual"
+  },
+  {
+    "ID": 1801,
+    "type": "Factual"
+  },
+  {
+    "ID": 1802,
+    "type": "Factual"
+  },
+  {
+    "ID": 1803,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1804,
+    "type": "Factual"
+  },
+  {
+    "ID": 1805,
+    "type": "Factual"
+  },
+  {
+    "ID": 1806,
+    "type": "Factual"
+  },
+  {
+    "ID": 1807,
+    "type": "Factual"
+  },
+  {
+    "ID": 1808,
+    "type": "Factual"
+  },
+  {
+    "ID": 1809,
+    "type": "Factual"
+  },
+  {
+    "ID": 1810,
+    "type": "Factual"
+  },
+  {
+    "ID": 1811,
+    "type": "Factual"
+  },
+  {
+    "ID": 1812,
+    "type": "Factual"
+  },
+  {
+    "ID": 1813,
+    "type": "Factual"
+  },
+  {
+    "ID": 1814,
+    "type": "Factual"
+  },
+  {
+    "ID": 1815,
+    "type": "Factual"
+  },
+  {
+    "ID": 1816,
+    "type": "Factual"
+  },
+  {
+    "ID": 1817,
+    "type": "Factual"
+  },
+  {
+    "ID": 1818,
+    "type": "Factual"
+  },
+  {
+    "ID": 1819,
+    "type": "Factual"
+  },
+  {
+    "ID": 1820,
+    "type": "Factual"
+  },
+  {
+    "ID": 1821,
+    "type": "Factual"
+  },
+  {
+    "ID": 1822,
+    "type": "Factual"
+  },
+  {
+    "ID": 1823,
+    "type": "Factual"
+  },
+  {
+    "ID": 1824,
+    "type": "Factual"
+  },
+  {
+    "ID": 1825,
+    "type": "Factual"
+  },
+  {
+    "ID": 1826,
+    "type": "Factual"
+  },
+  {
+    "ID": 1827,
+    "type": "Factual"
+  },
+  {
+    "ID": 1828,
+    "type": "Factual"
+  },
+  {
+    "ID": 1829,
+    "type": "Factual"
+  },
+  {
+    "ID": 1830,
+    "type": "Factual"
+  },
+  {
+    "ID": 1831,
+    "type": "Factual"
+  },
+  {
+    "ID": 1832,
+    "type": "Factual"
+  },
+  {
+    "ID": 1833,
+    "type": "Factual"
+  },
+  {
+    "ID": 1834,
+    "type": "Factual"
+  },
+  {
+    "ID": 1835,
+    "type": "Factual"
+  },
+  {
+    "ID": 1836,
+    "type": "Factual"
+  },
+  {
+    "ID": 1837,
+    "type": "Factual"
+  },
+  {
+    "ID": 1838,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1839,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1840,
+    "type": "Factual"
+  },
+  {
+    "ID": 1841,
+    "type": "Factual"
+  },
+  {
+    "ID": 1842,
+    "type": "Factual"
+  },
+  {
+    "ID": 1843,
+    "type": "Factual"
+  },
+  {
+    "ID": 1844,
+    "type": "Factual"
+  },
+  {
+    "ID": 1845,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1846,
+    "type": "Factual"
+  },
+  {
+    "ID": 1847,
+    "type": "Factual"
+  },
+  {
+    "ID": 1848,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1849,
+    "type": "Factual"
+  },
+  {
+    "ID": 1850,
+    "type": "Factual"
+  },
+  {
+    "ID": 1851,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1852,
+    "type": "Factual"
+  },
+  {
+    "ID": 1853,
+    "type": "Factual"
+  },
+  {
+    "ID": 1854,
+    "type": "Factual"
+  },
+  {
+    "ID": 1855,
+    "type": "Factual"
+  },
+  {
+    "ID": 1856,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1857,
+    "type": "Factual"
+  },
+  {
+    "ID": 1858,
+    "type": "Factual"
+  },
+  {
+    "ID": 1859,
+    "type": "Factual"
+  },
+  {
+    "ID": 1860,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1861,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1862,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1863,
+    "type": "Factual"
+  },
+  {
+    "ID": 1864,
+    "type": "Factual"
+  },
+  {
+    "ID": 1865,
+    "type": "Factual"
+  },
+  {
+    "ID": 1866,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1867,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1868,
+    "type": "Factual"
+  },
+  {
+    "ID": 1869,
+    "type": "Factual"
+  },
+  {
+    "ID": 1870,
+    "type": "Factual"
+  },
+  {
+    "ID": 1871,
+    "type": "Factual"
+  },
+  {
+    "ID": 1872,
+    "type": "Factual"
+  },
+  {
+    "ID": 1873,
+    "type": "Factual"
+  },
+  {
+    "ID": 1874,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1875,
+    "type": "Factual"
+  },
+  {
+    "ID": 1876,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1877,
+    "type": "Factual"
+  },
+  {
+    "ID": 1878,
+    "type": "Factual"
+  },
+  {
+    "ID": 1879,
+    "type": "Factual"
+  },
+  {
+    "ID": 1880,
+    "type": "Factual"
+  },
+  {
+    "ID": 1881,
+    "type": "Factual"
+  },
+  {
+    "ID": 1882,
+    "type": "Factual"
+  },
+  {
+    "ID": 1883,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1884,
+    "type": "Factual"
+  },
+  {
+    "ID": 1885,
+    "type": "Factual"
+  },
+  {
+    "ID": 1886,
+    "type": "Factual"
+  },
+  {
+    "ID": 1887,
+    "type": "Factual"
+  },
+  {
+    "ID": 1888,
+    "type": "Factual"
+  },
+  {
+    "ID": 1889,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1890,
+    "type": "Factual"
+  },
+  {
+    "ID": 1891,
+    "type": "Factual"
+  },
+  {
+    "ID": 1892,
+    "type": "Factual"
+  },
+  {
+    "ID": 1893,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1894,
+    "type": "Factual"
+  },
+  {
+    "ID": 1895,
+    "type": "Factual"
+  },
+  {
+    "ID": 1896,
+    "type": "Factual"
+  },
+  {
+    "ID": 1897,
+    "type": "Factual"
+  },
+  {
+    "ID": 1898,
+    "type": "Factual"
+  },
+  {
+    "ID": 1899,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1900,
+    "type": "Factual"
+  },
+  {
+    "ID": 1901,
+    "type": "Factual"
+  },
+  {
+    "ID": 1902,
+    "type": "Factual"
+  },
+  {
+    "ID": 1903,
+    "type": "Factual"
+  },
+  {
+    "ID": 1904,
+    "type": "Factual"
+  },
+  {
+    "ID": 1905,
+    "type": "Factual"
+  },
+  {
+    "ID": 1906,
+    "type": "Factual"
+  },
+  {
+    "ID": 1907,
+    "type": "Factual"
+  },
+  {
+    "ID": 1908,
+    "type": "Factual"
+  },
+  {
+    "ID": 1909,
+    "type": "Factual"
+  },
+  {
+    "ID": 1910,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1911,
+    "type": "Factual"
+  },
+  {
+    "ID": 1912,
+    "type": "Factual"
+  },
+  {
+    "ID": 1913,
+    "type": "Factual"
+  },
+  {
+    "ID": 1914,
+    "type": "Factual"
+  },
+  {
+    "ID": 1915,
+    "type": "Factual"
+  },
+  {
+    "ID": 1916,
+    "type": "Factual"
+  },
+  {
+    "ID": 1917,
+    "type": "Factual"
+  },
+  {
+    "ID": 1918,
+    "type": "Factual"
+  },
+  {
+    "ID": 1919,
+    "type": "Factual"
+  },
+  {
+    "ID": 1920,
+    "type": "Factual"
+  },
+  {
+    "ID": 1921,
+    "type": "Factual"
+  },
+  {
+    "ID": 1922,
+    "type": "Factual"
+  },
+  {
+    "ID": 1923,
+    "type": "Factual"
+  },
+  {
+    "ID": 1924,
+    "type": "Factual"
+  },
+  {
+    "ID": 1925,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1926,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1927,
+    "type": "Factual"
+  },
+  {
+    "ID": 1928,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1929,
+    "type": "Factual"
+  },
+  {
+    "ID": 1930,
+    "type": "Factual"
+  },
+  {
+    "ID": 1931,
+    "type": "Factual"
+  },
+  {
+    "ID": 1932,
+    "type": "Factual"
+  },
+  {
+    "ID": 1933,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1934,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1935,
+    "type": "Factual"
+  },
+  {
+    "ID": 1936,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1937,
+    "type": "Factual"
+  },
+  {
+    "ID": 1938,
+    "type": "Factual"
+  },
+  {
+    "ID": 1939,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1940,
+    "type": "Factual"
+  },
+  {
+    "ID": 1941,
+    "type": "Factual"
+  },
+  {
+    "ID": 1942,
+    "type": "Factual"
+  },
+  {
+    "ID": 1943,
+    "type": "Factual"
+  },
+  {
+    "ID": 1944,
+    "type": "Factual"
+  },
+  {
+    "ID": 1945,
+    "type": "Factual"
+  },
+  {
+    "ID": 1946,
+    "type": "Factual"
+  },
+  {
+    "ID": 1947,
+    "type": "Factual"
+  },
+  {
+    "ID": 1948,
+    "type": "Factual"
+  },
+  {
+    "ID": 1949,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1950,
+    "type": "Factual"
+  },
+  {
+    "ID": 1951,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1952,
+    "type": "Factual"
+  },
+  {
+    "ID": 1953,
+    "type": "Factual"
+  },
+  {
+    "ID": 1954,
+    "type": "Factual"
+  },
+  {
+    "ID": 1955,
+    "type": "Factual"
+  },
+  {
+    "ID": 1956,
+    "type": "Factual"
+  },
+  {
+    "ID": 1957,
+    "type": "Factual"
+  },
+  {
+    "ID": 1958,
+    "type": "Factual"
+  },
+  {
+    "ID": 1959,
+    "type": "Factual"
+  },
+  {
+    "ID": 1960,
+    "type": "Factual"
+  },
+  {
+    "ID": 1961,
+    "type": "Factual"
+  },
+  {
+    "ID": 1962,
+    "type": "Factual"
+  },
+  {
+    "ID": 1963,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1964,
+    "type": "Factual"
+  },
+  {
+    "ID": 1965,
+    "type": "Factual"
+  },
+  {
+    "ID": 1966,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1967,
+    "type": "Factual"
+  },
+  {
+    "ID": 1968,
+    "type": "Factual"
+  },
+  {
+    "ID": 1969,
+    "type": "Factual"
+  },
+  {
+    "ID": 1970,
+    "type": "Factual"
+  },
+  {
+    "ID": 1971,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1972,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1973,
+    "type": "Factual"
+  },
+  {
+    "ID": 1974,
+    "type": "Factual"
+  },
+  {
+    "ID": 1975,
+    "type": "Factual"
+  },
+  {
+    "ID": 1976,
+    "type": "Factual"
+  },
+  {
+    "ID": 1977,
+    "type": "Factual"
+  },
+  {
+    "ID": 1978,
+    "type": "Factual"
+  },
+  {
+    "ID": 1979,
+    "type": "Factual"
+  },
+  {
+    "ID": 1980,
+    "type": "Factual"
+  },
+  {
+    "ID": 1981,
+    "type": "Factual"
+  },
+  {
+    "ID": 1982,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1983,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1984,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1985,
+    "type": "Contradiction"
+  },
+  {
+    "ID": 1986,
+    "type": "Factual"
+  },
+  {
+    "ID": 1987,
+    "type": "Irrelevant"
+  },
+  {
+    "ID": 1988,
+    "type": "Factual"
+  },
+  {
+    "ID": 1989,
+    "type": "Factual"
+  },
+  {
+    "ID": 1990,
+    "type": "Factual"
+  },
+  {
+    "ID": 1991,
+    "type": "Factual"
+  },
+  {
+    "ID": 1992,
+    "type": "Factual"
+  },
+  {
+    "ID": 1993,
+    "type": "Factual"
+  },
+  {
+    "ID": 1994,
+    "type": "Factual"
+  },
+  {
+    "ID": 1995,
+    "type": "Factual"
+  },
+  {
+    "ID": 1996,
+    "type": "Factual"
+  },
+  {
+    "ID": 1997,
+    "type": "Factual"
+  },
+  {
+    "ID": 1998,
+    "type": "Factual"
+  },
+  {
+    "ID": 1999,
+    "type": "Factual"
+  },
+  {
+    "ID": 2000,
+    "type": "Factual"
+  }
+]
