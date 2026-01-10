@@ -137,7 +137,7 @@
   },
   {
     "ID": 35,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 36,
@@ -337,7 +337,7 @@
   },
   {
     "ID": 85,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 86,
@@ -385,7 +385,7 @@
   },
   {
     "ID": 97,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 98,
@@ -581,7 +581,7 @@
   },
   {
     "ID": 146,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 147,
@@ -793,7 +793,7 @@
   },
   {
     "ID": 199,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 200,
@@ -953,7 +953,7 @@
   },
   {
     "ID": 239,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 240,
@@ -973,7 +973,7 @@
   },
   {
     "ID": 244,
-    "type": "Contradiction"
+    "type": "Factual"
   },
   {
     "ID": 245,
@@ -981,7 +981,7 @@
   },
   {
     "ID": 246,
-    "type": "Factual"
+    "type": "Irrelevant"
   },
   {
     "ID": 247,
@@ -1265,7 +1265,7 @@
   },
   {
     "ID": 317,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 318,
@@ -1373,7 +1373,7 @@
   },
   {
     "ID": 344,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 345,
@@ -1613,7 +1613,7 @@
   },
   {
     "ID": 404,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 405,
@@ -1681,7 +1681,7 @@
   },
   {
     "ID": 421,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 422,
@@ -1701,7 +1701,7 @@
   },
   {
     "ID": 426,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 427,
@@ -1817,7 +1817,7 @@
   },
   {
     "ID": 455,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 456,
@@ -1829,7 +1829,7 @@
   },
   {
     "ID": 458,
-    "type": "Factual"
+    "type": "Irrelevant"
   },
   {
     "ID": 459,
@@ -1861,7 +1861,7 @@
   },
   {
     "ID": 466,
-    "type": "Contradiction"
+    "type": "Factual"
   },
   {
     "ID": 467,
@@ -2517,7 +2517,7 @@
   },
   {
     "ID": 630,
-    "type": "Factual"
+    "type": "Irrelevant"
   },
   {
     "ID": 631,
@@ -2661,7 +2661,7 @@
   },
   {
     "ID": 666,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 667,
@@ -2685,7 +2685,7 @@
   },
   {
     "ID": 672,
-    "type": "Contradiction"
+    "type": "Factual"
   },
   {
     "ID": 673,
@@ -2709,11 +2709,11 @@
   },
   {
     "ID": 678,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 679,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 680,
@@ -2789,7 +2789,7 @@
   },
   {
     "ID": 698,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 699,
@@ -3069,7 +3069,7 @@
   },
   {
     "ID": 768,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 769,
@@ -3109,7 +3109,7 @@
   },
   {
     "ID": 778,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 779,
@@ -3177,7 +3177,7 @@
   },
   {
     "ID": 795,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 796,
@@ -3285,7 +3285,7 @@
   },
   {
     "ID": 822,
-    "type": "Factual"
+    "type": "Irrelevant"
   },
   {
     "ID": 823,
@@ -3317,7 +3317,7 @@
   },
   {
     "ID": 830,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 831,
@@ -3481,7 +3481,7 @@
   },
   {
     "ID": 871,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 872,
@@ -3849,7 +3849,7 @@
   },
   {
     "ID": 963,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 964,
@@ -3873,7 +3873,7 @@
   },
   {
     "ID": 969,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 970,
@@ -3977,7 +3977,7 @@
   },
   {
     "ID": 995,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 996,
@@ -4201,7 +4201,7 @@
   },
   {
     "ID": 1051,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 1052,
@@ -4397,7 +4397,7 @@
   },
   {
     "ID": 1100,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 1101,
@@ -4501,7 +4501,7 @@
   },
   {
     "ID": 1126,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 1127,
@@ -4513,7 +4513,7 @@
   },
   {
     "ID": 1129,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 1130,
@@ -4833,7 +4833,7 @@
   },
   {
     "ID": 1209,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 1210,
@@ -4841,7 +4841,7 @@
   },
   {
     "ID": 1211,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 1212,
@@ -5005,7 +5005,7 @@
   },
   {
     "ID": 1252,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 1253,
@@ -5197,7 +5197,7 @@
   },
   {
     "ID": 1300,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 1301,
@@ -5213,7 +5213,7 @@
   },
   {
     "ID": 1304,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 1305,
@@ -5245,7 +5245,7 @@
   },
   {
     "ID": 1312,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 1313,
@@ -5305,7 +5305,7 @@
   },
   {
     "ID": 1327,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 1328,
@@ -5481,7 +5481,7 @@
   },
   {
     "ID": 1371,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 1372,
@@ -5529,7 +5529,7 @@
   },
   {
     "ID": 1383,
-    "type": "Factual"
+    "type": "Irrelevant"
   },
   {
     "ID": 1384,
@@ -5589,7 +5589,7 @@
   },
   {
     "ID": 1398,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 1399,
@@ -5653,7 +5653,7 @@
   },
   {
     "ID": 1414,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 1415,
@@ -5885,7 +5885,7 @@
   },
   {
     "ID": 1472,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 1473,
@@ -5977,7 +5977,7 @@
   },
   {
     "ID": 1495,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 1496,
@@ -6309,11 +6309,11 @@
   },
   {
     "ID": 1578,
-    "type": "Factual"
+    "type": "Irrelevant"
   },
   {
     "ID": 1579,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 1580,
@@ -6493,7 +6493,7 @@
   },
   {
     "ID": 1624,
-    "type": "Factual"
+    "type": "Irrelevant"
   },
   {
     "ID": 1625,
@@ -6561,7 +6561,7 @@
   },
   {
     "ID": 1641,
-    "type": "Contradiction"
+    "type": "Irrelevant"
   },
   {
     "ID": 1642,
@@ -6705,7 +6705,7 @@
   },
   {
     "ID": 1677,
-    "type": "Irrelevant"
+    "type": "Factual"
   },
   {
     "ID": 1678,
@@ -6837,7 +6837,7 @@
   },
   {
     "ID": 1710,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 1711,
@@ -6961,7 +6961,7 @@
   },
   {
     "ID": 1741,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 1742,
@@ -6993,7 +6993,7 @@
   },
   {
     "ID": 1749,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 1750,
@@ -7085,7 +7085,7 @@
   },
   {
     "ID": 1772,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 1773,
@@ -7197,7 +7197,7 @@
   },
   {
     "ID": 1800,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 1801,
@@ -7293,7 +7293,7 @@
   },
   {
     "ID": 1824,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 1825,
@@ -7317,7 +7317,7 @@
   },
   {
     "ID": 1830,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 1831,
@@ -7457,7 +7457,7 @@
   },
   {
     "ID": 1865,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 1866,
@@ -7469,7 +7469,7 @@
   },
   {
     "ID": 1868,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 1869,
@@ -7505,7 +7505,7 @@
   },
   {
     "ID": 1877,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 1878,
@@ -7521,7 +7521,7 @@
   },
   {
     "ID": 1881,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 1882,
@@ -7633,7 +7633,7 @@
   },
   {
     "ID": 1909,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 1910,
@@ -7717,7 +7717,7 @@
   },
   {
     "ID": 1930,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 1931,
@@ -7889,7 +7889,7 @@
   },
   {
     "ID": 1973,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 1974,
@@ -7901,7 +7901,7 @@
   },
   {
     "ID": 1976,
-    "type": "Factual"
+    "type": "Irrelevant"
   },
   {
     "ID": 1977,
@@ -7941,7 +7941,7 @@
   },
   {
     "ID": 1986,
-    "type": "Factual"
+    "type": "Contradiction"
   },
   {
     "ID": 1987,
